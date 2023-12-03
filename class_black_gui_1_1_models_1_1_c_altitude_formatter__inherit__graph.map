@@ -1,0 +1,4 @@
+<map id="BlackGui::Models::CAltitudeFormatter" name="BlackGui::Models::CAltitudeFormatter">
+<area shape="rect" id="node1" title="Formatter when column contains an altitude." alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="7,5,207,47"/>
+</map>

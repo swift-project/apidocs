@@ -1,0 +1,8 @@
+<map id="BlackMisc::Simulation::IRemoteAircraftProvider" name="BlackMisc::Simulation::IRemoteAircraftProvider">
+<area shape="rect" id="node1" title="Direct thread safe in memory access to remote aircraft." alt="" coords="208,39,395,80"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_c_context_network.html" title="Network context implementation." alt="" coords="465,5,611,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider.html" title="Implementaion of the interface, which can also be used for testing." alt="" coords="443,71,633,112"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="5,46,160,73"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="697,49,908,75"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider_dummy.html" title="Dummy implementation for testing purpose." alt="" coords="681,100,924,141"/>
+</map>

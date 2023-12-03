@@ -1,0 +1,9 @@
+<map id="BlackMisc::SharedState::CGenericListJournal" name="BlackMisc::SharedState::CGenericListJournal">
+<area shape="rect" id="node1" title="Non&#45;template base class for CListJournal." alt="" coords="128,93,303,134"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_list_journal.html" title=" " alt="" coords="379,5,553,61"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_shared_state_1_1_c_list_journal.html" title=" " alt="" coords="351,85,581,141"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_shared_state_1_1_c_list_journal.html" title="Base class for an object that shares state with a corresponding CListObserver subclass object." alt="" coords="379,166,553,207"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,100,80,127"/>
+<area shape="rect" id="node4" href="$class_black_misc_test_1_1_c_test_list_journal.html" title="List journal subclass." alt="" coords="629,13,809,54"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_log_history.html" title="Records all log messages to a list that persists for the lifetime of the application." alt="" coords="632,100,807,127"/>
+</map>

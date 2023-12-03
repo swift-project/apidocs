@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::PilotDataUpdate" name="BlackCore::Fsd::PilotDataUpdate">
+<area shape="rect" id="node1" title="Pilot data update broadcasted to all clients in range every 5 seconds." alt="" coords="21,80,207,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

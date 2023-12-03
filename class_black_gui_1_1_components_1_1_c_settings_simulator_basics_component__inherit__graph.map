@@ -1,0 +1,9 @@
+<map id="BlackGui::Components::CSettingsSimulatorBasicsComponent" name="BlackGui::Components::CSettingsSimulatorBasicsComponent">
+<area shape="rect" id="node1" title="Driver independent parts of simulator settings, ie those one are also used independent of the driver." alt="" coords="5,408,277,449"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="35,319,248,360"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="35,229,248,271"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="105,155,178,181"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="102,80,181,107"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="47,5,121,32"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="145,5,255,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BlackGui::Components::CDbLiveryComponent" name="BlackGui::Components::CDbLiveryComponent">
+<area shape="rect" id="node1" title="Liveries from DB." alt="" coords="933,89,1105,130"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="672,23,885,65"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="411,23,624,65"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,31,363,57"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_c_enable_for_dock_widget_info_area.html" title="Helper class: If a component is residing in an dockable widget. This class provides access to its inf..." alt="" coords="681,89,876,130"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_c_enable_for_view_based_indicator.html" title="Hand over indication task to an embedded view." alt="" coords="682,154,875,195"/>
+</map>

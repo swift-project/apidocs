@@ -1,0 +1,11 @@
+<map id="BlackMisc::Simulation::IModelsUpdatable" name="BlackMisc::Simulation::IModelsUpdatable">
+<area shape="rect" id="node1" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="5,104,172,145"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_model_workbench_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="220,5,464,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_own_model_set_component.html" title="Handling of the own model set." alt="" coords="231,71,453,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_db_own_models_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="238,136,446,177"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_aircraft_model_loader.html" title="Load the aircraft for a simulator." alt="" coords="259,201,425,243"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_dummy_model_loader.html" title="Dummy loader for testing." alt="" coords="540,91,715,132"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_flightgear_1_1_c_aircraft_model_loader_flightgear.html" title="Flightgear aircraft model loader." alt="" coords="527,157,727,213"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_fs_common_1_1_c_aircraft_cfg_parser.html" title="Utility, parsing the aircraft.cfg files." alt="" coords="512,237,743,279"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_x_plane_1_1_c_aircraft_model_loader_x_plane.html" title="XPlane aircraft model loader." alt="" coords="516,303,739,359"/>
+</map>

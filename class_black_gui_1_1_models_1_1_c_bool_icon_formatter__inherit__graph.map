@@ -1,0 +1,5 @@
+<map id="BlackGui::Models::CBoolIconFormatter" name="BlackGui::Models::CBoolIconFormatter">
+<area shape="rect" id="node1" title="Format as bool pixmap." alt="" coords="5,184,213,225"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_bool_text_formatter.html" title="Bool value, format as text." alt="" coords="5,95,213,136"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="9,5,209,47"/>
+</map>

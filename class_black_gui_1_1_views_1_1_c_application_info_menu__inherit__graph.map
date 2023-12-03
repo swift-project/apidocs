@@ -1,0 +1,5 @@
+<map id="BlackGui::Views::CApplicationInfoMenu" name="BlackGui::Views::CApplicationInfoMenu">
+<area shape="rect" id="node1" title="Menu base class for aircraft model view menus." alt="" coords="16,155,233,196"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_menus_1_1_i_menu_delegate.html" title="Interface to implement a custom menu." alt="" coords="5,80,244,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="87,5,162,32"/>
+</map>

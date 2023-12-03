@@ -1,0 +1,23 @@
+<map id="BlackMisc::Simulation::CRemoteAircraftAware" name="BlackMisc::Simulation::CRemoteAircraftAware">
+<area shape="rect" id="node1" title="Class which can be directly used to access an." alt="" coords="261,217,440,258"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="490,5,705,61"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="490,85,705,141"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_c_airspace_analyzer.html" title="Class monitoring and analyzing (closest aircraft, outdated aircraft / watchdog) airspace in backgroun..." alt="" coords="488,165,707,192"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_context_1_1_c_context_simulator.html" title="Network simulator concrete implementation." alt="" coords="521,217,674,258"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_fsd_1_1_c_f_s_d_client.html" title="FSD client Todo: Send (interim) data updates automatically Todo Check &#39;:&#39; in FSD messages...." alt="" coords="498,283,697,309"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_i_simulator.html" title="Interface to a simulator." alt="" coords="516,333,679,360"/>
+<area shape="rect" id="node21" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title="Interpolator, calculation inbetween positions." alt="" coords="499,385,695,426"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,217,213,258"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_spline.html" title="Cubic spline interpolator." alt="" coords="772,13,939,54"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_linear.html" title="Linear interpolator, calculation inbetween positions." alt="" coords="772,93,939,134"/>
+<area shape="rect" id="node11" href="$class_black_sim_plugin_1_1_common_1_1_c_simulator_plugin_common.html" title="Common base class for simulator plugins." alt="" coords="755,326,956,367"/>
+<area shape="rect" id="node12" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated.html" title="swift simulator implementation" alt="" coords="1010,227,1203,269"/>
+<area shape="rect" id="node13" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear.html" title="Flightgear ISimulator implementation." alt="" coords="1008,293,1205,334"/>
+<area shape="rect" id="node14" href="$class_black_sim_plugin_1_1_fs_common_1_1_c_simulator_fs_common.html" title="Common base class for MS flight simulators." alt="" coords="1004,358,1209,399"/>
+<area shape="rect" id="node20" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane.html" title="X&#45;Plane ISimulator implementation." alt="" coords="1019,423,1195,465"/>
+<area shape="rect" id="node15" href="$class_black_sim_plugin_1_1_fs9_1_1_c_simulator_fs9.html" title="FS9 Simulator Implementation." alt="" coords="1287,326,1441,367"/>
+<area shape="rect" id="node16" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_common.html" title="FSX Simulator Implementation." alt="" coords="1257,391,1471,433"/>
+<area shape="rect" id="node17" href="$class_black_sim_plugin_1_1_fsx_1_1_c_simulator_fsx.html" title="FSX simulator implementation." alt="" coords="1523,326,1677,367"/>
+<area shape="rect" id="node18" href="$class_black_sim_plugin_1_1_msfs_1_1_c_simulator_ms_fs.html" title="FSX simulator implementation." alt="" coords="1519,391,1681,433"/>
+<area shape="rect" id="node19" href="$class_black_sim_plugin_1_1_p3_d_1_1_c_simulator_p3_d.html" title="P3D Simulator Implementation." alt="" coords="1521,457,1679,498"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="BlackMisc::CValueCachePacket" name="BlackMisc::CValueCachePacket">
+<area shape="rect" id="node1" title="Value class used for signalling changed values in the cache." alt="" coords="604,197,827,223"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_dictionary.html" title=" " alt="" coords="321,109,527,165"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title="CRTP class template which will generate marshalling operators for a derived class with its own marsha..." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_mixin_1_1_d_bus_by_meta_class.html" title=" " alt="" coords="301,19,547,60"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title="CRTP class template to generate non&#45;member QDataStream streaming operators." alt="" coords="15,201,234,243"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_mixin_1_1_data_stream_by_meta_class.html" title=" " alt="" coords="292,189,556,231"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_json_operators.html" title="CRTP class template which will generate marshalling operators for a derived class with its own marsha..." alt="" coords="9,71,240,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_string.html" title="CRTP class template from which a derived class can inherit string streaming operations." alt="" coords="35,136,214,177"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title=" " alt="" coords="323,255,525,296"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_mixin_1_1_equals_by_meta_class.html" title=" " alt="" coords="292,320,556,361"/>
+</map>

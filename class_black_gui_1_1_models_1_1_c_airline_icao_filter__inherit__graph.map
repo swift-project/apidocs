@@ -1,0 +1,4 @@
+<map id="BlackGui::Models::CAirlineIcaoFilter" name="BlackGui::Models::CAirlineIcaoFilter">
+<area shape="rect" id="node1" title="Filter for airline ICAO data." alt="" coords="7,109,201,151"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_i_model_filter.html" title=" " alt="" coords="5,5,203,61"/>
+</map>

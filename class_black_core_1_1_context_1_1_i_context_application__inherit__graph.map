@@ -1,0 +1,8 @@
+<map id="BlackCore::Context::IContextApplication" name="BlackCore::Context::IContextApplication">
+<area shape="rect" id="node1" title="Application context interface." alt="" coords="323,71,481,112"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_application.html" title="Application context." alt="" coords="551,5,713,47"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_context_1_1_c_context_application_empty.html" title="Application context." alt="" coords="529,71,735,112"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_application_proxy.html" title="Application context proxy." alt="" coords="532,136,732,177"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="128,71,275,112"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,78,80,105"/>
+</map>

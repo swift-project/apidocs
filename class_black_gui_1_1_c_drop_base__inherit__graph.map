@@ -1,0 +1,51 @@
+<map id="BlackGui::CDropBase" name="BlackGui::CDropBase">
+<area shape="rect" id="node1" title="Utilities for dropping swift value objects." alt="" coords="5,195,165,221"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_drop_site.html" title="Area where items can be dropped." alt="" coords="266,5,419,32"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_aircraft_icao_selector_component.html" title="Aircraft ICAO selector." alt="" coords="213,57,472,98"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_db_airline_icao_selector_base.html" title="Airline ICAO selector base class." alt="" coords="237,122,448,163"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_db_country_selector_component.html" title="Country selector." alt="" coords="225,187,461,229"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_db_distributor_selector_component.html" title="Distributor selector." alt="" coords="215,253,470,294"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_components_1_1_c_db_livery_selector_component.html" title="Selector for liveries." alt="" coords="230,318,455,359"/>
+<area shape="rect" id="node10" href="$class_black_gui_1_1_models_1_1_c_list_model_base_non_template.html" title="Non templated base class, allows Q_OBJECT and signals to be used." alt="" coords="235,677,450,718"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_components_1_1_c_db_airline_icao_selector_component.html" title="Airline ICAO selector." alt="" coords="526,57,781,98"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_components_1_1_c_db_airline_name_selector_component.html" title="Select airline by name." alt="" coords="520,122,787,163"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="529,187,777,229"/>
+<area shape="rect" id="node13" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,253,761,309"/>
+<area shape="rect" id="node15" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,333,761,389"/>
+<area shape="rect" id="node17" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,413,761,469"/>
+<area shape="rect" id="node19" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,493,761,549"/>
+<area shape="rect" id="node21" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,574,761,645"/>
+<area shape="rect" id="node23" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,669,761,725"/>
+<area shape="rect" id="node25" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="523,749,784,805"/>
+<area shape="rect" id="node27" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="528,829,779,885"/>
+<area shape="rect" id="node29" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,909,761,965"/>
+<area shape="rect" id="node31" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,989,761,1045"/>
+<area shape="rect" id="node33" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,1081,761,1122"/>
+<area shape="rect" id="node37" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title=" " alt="" coords="546,1185,761,1241"/>
+<area shape="rect" id="node39" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title="List model." alt="" coords="546,1615,761,1657"/>
+<area shape="rect" id="node12" href="$class_black_gui_1_1_models_1_1_c_identifier_list_model.html" title="Originator list model." alt="" coords="881,187,1091,229"/>
+<area shape="rect" id="node14" href="$class_black_gui_1_1_models_1_1_c_airport_list_model.html" title="Airport list model." alt="" coords="888,261,1084,302"/>
+<area shape="rect" id="node16" href="$class_black_gui_1_1_models_1_1_c_cloud_layer_list_model.html" title="Cloud layer list model." alt="" coords="891,341,1081,382"/>
+<area shape="rect" id="node18" href="$class_black_gui_1_1_models_1_1_c_audio_device_info_list_model.html" title="Audio device list model." alt="" coords="891,421,1081,462"/>
+<area shape="rect" id="node20" href="$class_black_gui_1_1_models_1_1_c_user_list_model.html" title="User list model." alt="" coords="883,501,1089,542"/>
+<area shape="rect" id="node22" href="$class_black_gui_1_1_models_1_1_c_temperature_layer_list_model.html" title="Temperature layer list model." alt="" coords="869,589,1103,630"/>
+<area shape="rect" id="node24" href="$class_black_gui_1_1_models_1_1_c_matching_statistics_model.html" title="Matching statistics entry." alt="" coords="880,677,1092,718"/>
+<area shape="rect" id="node26" href="$class_black_gui_1_1_models_1_1_c_name_variant_pair_model.html" title="Simple model displaying name / variant values." alt="" coords="867,757,1105,798"/>
+<area shape="rect" id="node28" href="$class_black_gui_1_1_models_1_1_c_application_info_list_model.html" title="Application info list model." alt="" coords="873,829,1099,870"/>
+<area shape="rect" id="node30" href="$class_black_gui_1_1_models_1_1_c_wind_layer_list_model.html" title="Wind layer list model." alt="" coords="875,894,1097,935"/>
+<area shape="rect" id="node32" href="$class_black_gui_1_1_models_1_1_c_server_list_model.html" title="Server list model." alt="" coords="889,959,1083,1001"/>
+<area shape="rect" id="node34" href="$class_black_gui_1_1_models_1_1_c_list_model_callsign_objects.html" title="List model for callsign based objects (callsign is unique key)" alt="" coords="859,1025,1113,1066"/>
+<area shape="rect" id="node35" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title="List model for DB objects." alt="" coords="868,1090,1104,1131"/>
+<area shape="rect" id="node36" href="$class_black_gui_1_1_models_1_1_c_list_model_timestamp_objects.html" title="List model for timestamp based objects with offset." alt="" coords="849,1155,1123,1197"/>
+<area shape="rect" id="node38" href="$class_black_gui_1_1_models_1_1_c_client_list_model.html" title="Client list model." alt="" coords="891,1221,1081,1262"/>
+<area shape="rect" id="node40" href="$class_black_gui_1_1_models_1_1_c_list_model_callsign_objects.html" title=" " alt="" coords="835,1287,1137,1343"/>
+<area shape="rect" id="node41" href="$class_black_gui_1_1_models_1_1_c_list_model_callsign_objects.html" title=" " alt="" coords="867,1367,1105,1423"/>
+<area shape="rect" id="node42" href="$class_black_gui_1_1_models_1_1_c_list_model_callsign_objects.html" title=" " alt="" coords="854,1447,1118,1518"/>
+<area shape="rect" id="node43" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="879,1542,1093,1583"/>
+<area shape="rect" id="node44" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="853,1608,1119,1664"/>
+<area shape="rect" id="node45" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="867,1688,1105,1744"/>
+<area shape="rect" id="node46" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="865,1768,1107,1824"/>
+<area shape="rect" id="node47" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="871,1848,1101,1904"/>
+<area shape="rect" id="node48" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="865,1928,1107,1984"/>
+<area shape="rect" id="node49" href="$class_black_gui_1_1_models_1_1_c_list_model_timestamp_objects.html" title=" " alt="" coords="873,2008,1099,2064"/>
+</map>

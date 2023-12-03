@@ -1,0 +1,16 @@
+<map id="BlackCore::CThreadedReader" name="BlackCore::CThreadedReader">
+<area shape="rect" id="node1" title="Support for threaded based reading and parsing tasks such as data files via http, or file system and ..." alt="" coords="629,274,841,301"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_db_1_1_c_database_reader.html" title="Specialized version of threaded reader for DB data." alt="" coords="889,103,1083,144"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_booking_reader.html" title="Read bookings from VATSIM." alt="" coords="899,168,1073,209"/>
+<area shape="rect" id="node11" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_data_file_reader.html" title="Read vatsim data file." alt="" coords="898,233,1074,275"/>
+<area shape="rect" id="node12" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_metar_reader.html" title="Read METARs from VATSIM." alt="" coords="906,299,1066,340"/>
+<area shape="rect" id="node13" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_server_file_reader.html" title="Read VATSIM server file." alt="" coords="893,364,1079,405"/>
+<area shape="rect" id="node14" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_status_file_reader.html" title="Sole purpose is to read the URLs where VATSIM data can be downloaded." alt="" coords="893,429,1079,471"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="359,274,581,301"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="128,274,311,301"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,274,80,301"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_db_1_1_c_airport_data_reader.html" title="Reader for airport database data." alt="" coords="1131,5,1337,47"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_db_1_1_c_icao_data_reader.html" title="Read ICAO data from Database." alt="" coords="1139,71,1329,112"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_db_1_1_c_info_data_reader.html" title="Read information about data from Database or shared files such as when updated and number of entries." alt="" coords="1141,136,1327,177"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_db_1_1_c_model_data_reader.html" title="Read model related data from Database." alt="" coords="1133,201,1335,243"/>
+</map>

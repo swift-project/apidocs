@@ -1,0 +1,51 @@
+<map id="BlackGui::COverlayMessagesFrame" name="BlackGui::COverlayMessagesFrame">
+<area shape="rect" id="node1" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="672,1125,885,1167"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_c_overlay_messages_frame_enable_for_dock_widget_info_area.html" title="Using this class provides a QFrame with the overlay and dock widget functionality already integrated." alt="" coords="939,103,1200,144"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_c_plugin_config_window.html" title="Base class for plugin config window." alt="" coords="954,274,1185,301"/>
+<area shape="rect" id="node16" href="$class_black_gui_1_1_components_1_1_c_aircraft_model_validation_component.html" title="Handle validation result." alt="" coords="936,325,1203,367"/>
+<area shape="rect" id="node17" href="$class_black_gui_1_1_components_1_1_c_auto_publish_component.html" title="Data automatically collected and be be sent to backend." alt="" coords="974,391,1165,432"/>
+<area shape="rect" id="node18" href="$class_black_gui_1_1_components_1_1_c_copy_models_from_other_swift_versions_component.html" title="Copy models from another swift version." alt="" coords="959,457,1179,513"/>
+<area shape="rect" id="node19" href="$class_black_gui_1_1_components_1_1_c_copy_settings_and_caches_component.html" title="Copy settings and caches." alt="" coords="933,537,1205,579"/>
+<area shape="rect" id="node20" href="$class_black_gui_1_1_components_1_1_c_data_settings_component.html" title="Settings." alt="" coords="970,603,1169,644"/>
+<area shape="rect" id="node21" href="$class_black_gui_1_1_components_1_1_c_db_aircraft_category_component.html" title="DB aircraft categories." alt="" coords="950,668,1189,709"/>
+<area shape="rect" id="node22" href="$class_black_gui_1_1_components_1_1_c_db_aircraft_icao_component.html" title="DB aircraft ICAO data." alt="" coords="966,733,1173,775"/>
+<area shape="rect" id="node23" href="$class_black_gui_1_1_components_1_1_c_db_airline_icao_component.html" title="Airline ICAO code." alt="" coords="969,799,1170,840"/>
+<area shape="rect" id="node24" href="$class_black_gui_1_1_components_1_1_c_db_livery_component.html" title="Liveries from DB." alt="" coords="983,864,1155,905"/>
+<area shape="rect" id="node25" href="$class_black_gui_1_1_components_1_1_c_db_mapping_component.html" title="Mapping component." alt="" coords="975,929,1163,971"/>
+<area shape="rect" id="node26" href="$class_black_gui_1_1_components_1_1_c_db_model_component.html" title="Database models." alt="" coords="983,995,1155,1036"/>
+<area shape="rect" id="node27" href="$class_black_gui_1_1_components_1_1_c_db_model_workbench_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="947,1060,1191,1101"/>
+<area shape="rect" id="node28" href="$class_black_gui_1_1_components_1_1_c_db_own_models_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="965,1125,1173,1167"/>
+<area shape="rect" id="node29" href="$class_black_gui_1_1_components_1_1_c_distributor_preferences_component.html" title="Set and order distributors (to be used for model set)" alt="" coords="939,1191,1199,1232"/>
+<area shape="rect" id="node30" href="$class_black_gui_1_1_components_1_1_c_download_component.html" title="Download a file." alt="" coords="980,1256,1159,1297"/>
+<area shape="rect" id="node31" href="$class_black_gui_1_1_components_1_1_c_first_model_set_component.html" title="Create a first model set." alt="" coords="968,1321,1171,1363"/>
+<area shape="rect" id="node32" href="$class_black_gui_1_1_components_1_1_c_install_x_swift_bus_component.html" title="Download and install XSwiftBus." alt="" coords="960,1387,1179,1428"/>
+<area shape="rect" id="node33" href="$class_black_gui_1_1_components_1_1_c_interpolation_log_display.html" title="Display live data of interpolation." alt="" coords="972,1452,1167,1493"/>
+<area shape="rect" id="node34" href="$class_black_gui_1_1_components_1_1_c_interpolation_setup_component.html" title="Setup component." alt="" coords="952,1517,1187,1559"/>
+<area shape="rect" id="node35" href="$class_black_gui_1_1_components_1_1_c_legal_info_component.html" title="swift legal information" alt="" coords="982,1583,1157,1624"/>
+<area shape="rect" id="node36" href="$class_black_gui_1_1_components_1_1_c_login_adv_component.html" title="Login component to flight network." alt="" coords="982,1648,1157,1689"/>
+<area shape="rect" id="node37" href="$class_black_gui_1_1_components_1_1_c_login_component.html" title="Login component to flight network." alt="" coords="984,1713,1155,1755"/>
+<area shape="rect" id="node38" href="$class_black_gui_1_1_components_1_1_c_login_overview_component.html" title="Login component to flight network." alt="" coords="964,1779,1175,1820"/>
+<area shape="rect" id="node39" href="$class_black_gui_1_1_components_1_1_c_mapping_component.html" title="Mappings, models etc." alt="" coords="984,1844,1155,1885"/>
+<area shape="rect" id="node40" href="$class_black_gui_1_1_components_1_1_c_settings_simulator_basics_component.html" title="Driver independent parts of simulator settings, ie those one are also used independent of the driver." alt="" coords="933,1909,1205,1951"/>
+<area shape="rect" id="node41" href="$class_black_gui_1_1_editors_1_1_c_form.html" title="Form base class." alt="" coords="999,1975,1140,2016"/>
+<area shape="rect" id="node49" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_sim_connect_settings_component.html" title="A component that gathers all SimConnect related settings." alt="" coords="947,2040,1192,2081"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="411,1125,624,1167"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,1133,363,1159"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,1133,241,1159"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,1107,97,1134"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,1158,115,1185"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_atc_station_component.html" title="ATC stations component." alt="" coords="1293,5,1475,47"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_components_1_1_c_cockpit_component.html" title="Cockpit component: COM unit, show / hide bar, voice rooms." alt="" coords="1299,71,1469,112"/>
+<area shape="rect" id="node10" href="$class_black_gui_1_1_components_1_1_c_weather_component.html" title="Weather component." alt="" coords="1299,136,1469,177"/>
+<area shape="rect" id="node12" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_config_widget.html" title="Configuration window for CSimulatorEmulatedConfig." alt="" coords="1259,201,1509,243"/>
+<area shape="rect" id="node13" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear_config_window.html" title="A window that shows all the Flightgear plugin options." alt="" coords="1253,267,1515,308"/>
+<area shape="rect" id="node14" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_config_window.html" title="A window that lets user set up the FSX plugin." alt="" coords="1275,332,1493,373"/>
+<area shape="rect" id="node15" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane_config_window.html" title="A window that shows all the X&#45;Plane plugin options." alt="" coords="1264,397,1504,439"/>
+<area shape="rect" id="node42" href="$class_black_gui_1_1_editors_1_1_c_aircraft_icao_form.html" title="Aircraft ICAO form." alt="" coords="1313,1779,1455,1820"/>
+<area shape="rect" id="node43" href="$class_black_gui_1_1_editors_1_1_c_aircraft_model_form.html" title="Combined form of Livery, ICAOs, distributor." alt="" coords="1309,1844,1459,1885"/>
+<area shape="rect" id="node44" href="$class_black_gui_1_1_editors_1_1_c_aircraft_parts_form.html" title="Edit and set aircraft parts." alt="" coords="1313,1909,1455,1951"/>
+<area shape="rect" id="node45" href="$class_black_gui_1_1_editors_1_1_c_airline_icao_form.html" title="Airline ICAO code form." alt="" coords="1313,1975,1455,2016"/>
+<area shape="rect" id="node46" href="$class_black_gui_1_1_editors_1_1_c_cockpit_com_form.html" title="COM elements." alt="" coords="1313,2040,1455,2081"/>
+<area shape="rect" id="node47" href="$class_black_gui_1_1_editors_1_1_c_coordinate_form.html" title="Select / enter a geo position." alt="" coords="1313,2105,1455,2147"/>
+<area shape="rect" id="node48" href="$class_black_gui_1_1_editors_1_1_c_distributor_form.html" title="Distributor form." alt="" coords="1313,2171,1455,2212"/>
+</map>

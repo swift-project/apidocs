@@ -1,0 +1,9 @@
+<map id="BlackGui::Components::CInfoBarWebReadersStatusBase" name="BlackGui::Components::CInfoBarWebReadersStatusBase">
+<area shape="rect" id="node1" title="Info bar displaying status of web readers(swift DB, ...)" alt="" coords="411,43,651,84"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_components_1_1_c_info_bar_web_readers_status_component.html" title="Info bar displaying status of web readers(swift DB, ...)" alt="" coords="699,5,981,47"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_info_bar_web_readers_status_small_component.html" title="Smaller version of CInfoBarWebReadersStatusComponent." alt="" coords="717,71,963,127"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,50,363,77"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,50,241,77"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,25,97,51"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,75,115,102"/>
+</map>

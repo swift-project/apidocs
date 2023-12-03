@@ -1,0 +1,15 @@
+<map id="BlackGui::CEnableForFramelessWindow" name="BlackGui::CEnableForFramelessWindow">
+<area shape="rect" id="node1" title="Main window which can be frameless." alt="" coords="5,265,233,306"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_dock_widget.html" title="Our base class for dockable widgets containing some specialized functionality on top of QDockWidget." alt="" coords="281,56,457,83"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_c_info_area.html" title="Info area, hosting dockable widgets." alt="" coords="293,213,445,240"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_components_1_1_c_navigator_dialog.html" title="Navigator dialog." alt="" coords="284,265,455,306"/>
+<area shape="rect" id="node12" href="$class_c_swift_launcher.html" title="swift launcher tool" alt="" coords="308,331,431,357"/>
+<area shape="rect" id="node13" href="$class_swift_gui_std.html" title="swift GUI" alt="" coords="321,381,418,408"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_dock_widget_info_area.html" title="Specialized class for dock widgets serving as info area." alt="" coords="506,5,737,32"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_dock_widget_info_bar.html" title="Class for dock widgets in the info area, containing some specialized functionality." alt="" coords="510,56,733,83"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_components_1_1_c_cockpit_info_area_component.html" title="The cockpit itself is part of the main info area, but itself also an info area. hence windows can be ..." alt="" coords="512,107,731,149"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_core_info_area_component.html" title="Main info area." alt="" coords="522,173,721,214"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_data_info_area_component.html" title="Info area containing the DB data (models, liveries ...)" alt="" coords="521,238,721,279"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_components_1_1_c_data_main_info_area_component.html" title="Main info area for data entry tool." alt="" coords="505,303,737,345"/>
+<area shape="rect" id="node10" href="$class_black_gui_1_1_components_1_1_c_main_info_area_component.html" title="Main info area of pilot client." alt="" coords="521,369,722,410"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BlackCore::Db::CDatabaseReader::JsonDatastoreResponse" name="BlackCore::Db::CDatabaseReader::JsonDatastoreResponse">
+<area shape="rect" id="node1" title="Response from our database (depending on JSON DB backend generates)" alt="" coords="5,95,236,136"/>
+<area shape="rect" id="node2" href="$struct_black_core_1_1_db_1_1_c_database_reader_1_1_header_response.html" title="Header response part." alt="" coords="24,5,217,47"/>
+</map>

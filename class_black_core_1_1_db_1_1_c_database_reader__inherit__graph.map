@@ -1,0 +1,11 @@
+<map id="BlackCore::Db::CDatabaseReader" name="BlackCore::Db::CDatabaseReader">
+<area shape="rect" id="node1" title="Specialized version of threaded reader for DB data." alt="" coords="889,104,1083,145"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_db_1_1_c_airport_data_reader.html" title="Reader for airport database data." alt="" coords="1131,5,1337,47"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_db_1_1_c_icao_data_reader.html" title="Read ICAO data from Database." alt="" coords="1139,71,1329,112"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_db_1_1_c_info_data_reader.html" title="Read information about data from Database or shared files such as when updated and number of entries." alt="" coords="1141,136,1327,177"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_db_1_1_c_model_data_reader.html" title="Read model related data from Database." alt="" coords="1133,201,1335,243"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_c_threaded_reader.html" title="Support for threaded based reading and parsing tasks such as data files via http, or file system and ..." alt="" coords="629,111,841,138"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="359,111,581,138"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="128,111,311,138"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,111,80,138"/>
+</map>

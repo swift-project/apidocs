@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::Ping" name="BlackCore::Fsd::Ping">
+<area shape="rect" id="node1" title="Ping. Needs to be answered with a pong." alt="" coords="37,80,191,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

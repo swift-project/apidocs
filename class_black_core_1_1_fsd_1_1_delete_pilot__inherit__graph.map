@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::DeletePilot" name="BlackCore::Fsd::DeletePilot">
+<area shape="rect" id="node1" title="Used to notify the server of the intention to close the connection. If a client receives this packet ..." alt="" coords="15,80,213,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

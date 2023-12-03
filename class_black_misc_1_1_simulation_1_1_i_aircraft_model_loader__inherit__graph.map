@@ -1,0 +1,13 @@
+<map id="BlackMisc::Simulation::IAircraftModelLoader" name="BlackMisc::Simulation::IAircraftModelLoader">
+<area shape="rect" id="node1" title="Load the aircraft for a simulator." alt="" coords="553,116,720,157"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_c_dummy_model_loader.html" title="Dummy loader for testing." alt="" coords="796,5,971,47"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_flightgear_1_1_c_aircraft_model_loader_flightgear.html" title="Flightgear aircraft model loader." alt="" coords="783,71,983,127"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_simulation_1_1_fs_common_1_1_c_aircraft_cfg_parser.html" title="Utility, parsing the aircraft.cfg files." alt="" coords="768,152,999,193"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_simulation_1_1_x_plane_1_1_c_aircraft_model_loader_x_plane.html" title="XPlane aircraft model loader." alt="" coords="772,218,995,274"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="357,21,432,47"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_aware.html" title="Basically a QObject free (delegate based) version of CCentralMultiSimulatorModelCachesProvider." alt="" coords="284,71,505,127"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="14,47,227,88"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="5,112,236,153"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_i_models_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="311,152,478,193"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_i_models_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="311,217,478,259"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackGui::Menus::CShowSimulatorFileMenu" name="BlackGui::Menus::CShowSimulatorFileMenu">
+<area shape="rect" id="node1" title="Open the simulator file (e.g. aircraft.cfg) in the standard text editor." alt="" coords="5,244,252,285"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_menus_1_1_i_aircraft_model_view_menu.html" title="Menu base class for aircraft model view menus." alt="" coords="33,155,224,196"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_menus_1_1_i_menu_delegate.html" title="Interface to implement a custom menu." alt="" coords="9,80,248,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="91,5,166,32"/>
+</map>

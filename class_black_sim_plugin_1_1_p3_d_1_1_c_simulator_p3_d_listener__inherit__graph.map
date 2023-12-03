@@ -1,0 +1,6 @@
+<map id="BlackSimPlugin::P3D::CSimulatorP3DListener" name="BlackSimPlugin::P3D::CSimulatorP3DListener">
+<area shape="rect" id="node1" title="Listener for P3D." alt="" coords="33,244,213,285"/>
+<area shape="rect" id="node2" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_common_listener.html" title="Listener for FSX." alt="" coords="5,155,241,196"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_i_simulator_listener.html" title="Interface to a simulator listener." alt="" coords="16,80,231,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="86,5,161,32"/>
+</map>

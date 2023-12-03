@@ -1,0 +1,4 @@
+<map id="BlackMisc::Db::IDatastoreObjectList&lt; OBJ, CONTAINER, KEYTYPE &gt;" name="BlackMisc::Db::IDatastoreObjectList&lt; OBJ, CONTAINER, KEYTYPE &gt;">
+<area shape="rect" id="node1" title="List of objects read from database. Such objects should implement." alt="" coords="7,95,220,151"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_timestamp_object_list.html" title="List of objects with timestamp. Such objects should implement." alt="" coords="5,5,221,47"/>
+</map>

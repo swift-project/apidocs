@@ -1,0 +1,13 @@
+<map id="CSwiftLauncher" name="CSwiftLauncher">
+<area shape="rect" id="node1" title="swift launcher tool" alt="" coords="717,148,840,175"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qdialog.html" title=" " alt="" coords="518,31,593,57"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="239,31,317,57"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_c_enable_for_frameless_window.html" title="Main window which can be frameless." alt="" coords="441,82,669,123"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_i_main_window_access.html" title="Direct acccess to main window`s status bar, info bar and such." alt="" coords="445,148,666,175"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_set_caches_aware.html" title="Basically a QObject free (delegate based) version of CCentralMultiSimulatorModelSetCachesProvider." alt="" coords="445,199,666,255"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="171,173,385,214"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="163,238,393,279"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="466,279,645,305"/>
+</map>

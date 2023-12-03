@@ -1,0 +1,4 @@
+<map id="chunkware_simple::EnvelopeDetector" name="chunkware_simple::EnvelopeDetector">
+<area shape="rect" id="node1" title="Envelope detector." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classchunkware__simple_1_1_simple_limit_1_1_fast_envelope.html" title="Class for faster attack/release." alt="" coords="13,95,210,136"/>
+</map>

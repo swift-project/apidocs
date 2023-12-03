@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::PlaneInfoRequest" name="BlackCore::Fsd::PlaneInfoRequest">
+<area shape="rect" id="node1" title="Request to send plane information. Shall be answered by a PlaneInformation message." alt="" coords="20,80,208,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

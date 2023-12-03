@@ -1,0 +1,6 @@
+<map id="BlackCore::Context::CContextNetworkEmpty" name="BlackCore::Context::CContextNetworkEmpty">
+<area shape="rect" id="node1" title="Empty context, used during shutdown/initialization." alt="" coords="5,259,192,300"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context_network.html" title="Network context proxy." alt="" coords="25,169,172,211"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="25,80,172,121"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="61,5,136,32"/>
+</map>

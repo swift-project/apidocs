@@ -1,0 +1,7 @@
+<map id="BlackMisc::CAtomicFile" name="BlackMisc::CAtomicFile">
+<area shape="rect" id="node1" title="A subclass of QFile which writes to a temporary file while it is open, then renames the file when it ..." alt="" coords="5,304,180,331"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qfile.html" title=" " alt="" coords="65,229,120,256"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qfiledevice.html" title=" " alt="" coords="43,155,143,181"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qiodevice.html" title=" " alt="" coords="47,80,138,107"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="55,5,130,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BlackCore::Context::CContextOwnAircraft" name="BlackCore::Context::CContextOwnAircraft">
+<area shape="rect" id="node1" title="Own aircraft context implementation. Central instance of data for." alt="" coords="557,71,724,112"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context_own_aircraft.html" title="Own context proxy." alt="" coords="339,5,501,47"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="132,5,279,47"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,13,80,39"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_own_aircraft_provider.html" title="Direct threadsafe in memory access to own aircraft." alt="" coords="337,71,503,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="128,78,283,105"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="331,137,509,163"/>
+</map>

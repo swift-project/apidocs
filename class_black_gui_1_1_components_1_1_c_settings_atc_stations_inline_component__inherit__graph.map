@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CSettingsAtcStationsInlineComponent" name="BlackGui::Components::CSettingsAtcStationsInlineComponent">
+<area shape="rect" id="node1" title="How ATC stations will be displayed." alt="" coords="5,229,208,285"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="70,155,143,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="67,80,146,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="12,5,87,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="111,5,220,32"/>
+</map>

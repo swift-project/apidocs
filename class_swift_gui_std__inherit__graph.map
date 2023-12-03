@@ -1,0 +1,10 @@
+<map id="SwiftGuiStd" name="SwiftGuiStd">
+<area shape="rect" id="node1" title="swift GUI" alt="" coords="565,111,663,137"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qmainwindow.html" title=" " alt="" coords="345,31,461,57"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="314,81,493,108"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_c_enable_for_frameless_window.html" title="Main window which can be frameless." alt="" coords="289,133,517,174"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_i_main_window_access.html" title="Direct acccess to main window`s status bar, info bar and such." alt="" coords="293,199,514,225"/>
+</map>

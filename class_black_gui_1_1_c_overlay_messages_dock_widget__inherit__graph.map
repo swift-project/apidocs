@@ -1,0 +1,11 @@
+<map id="BlackGui::COverlayMessagesDockWidget" name="BlackGui::COverlayMessagesDockWidget">
+<area shape="rect" id="node1" title="Using this class provides a QDockWidget with the overlay functionality already integrated." alt="" coords="139,319,353,360"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_c_dock_widget.html" title="Our base class for dockable widgets containing some specialized functionality on top of QDockWidget." alt="" coords="158,408,334,435"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="139,229,353,271"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qdockwidget.html" title=" " alt="" coords="191,155,301,181"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="207,80,285,107"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="151,5,226,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="250,5,359,32"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_c_dock_widget_info_area.html" title="Specialized class for dock widgets serving as info area." alt="" coords="5,483,236,509"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_c_dock_widget_info_bar.html" title="Class for dock widgets in the info area, containing some specialized functionality." alt="" coords="260,483,483,509"/>
+</map>

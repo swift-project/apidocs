@@ -1,0 +1,11 @@
+<map id="BlackMisc::Geo::ICoordinateGeodetic" name="BlackMisc::Geo::ICoordinateGeodetic">
+<area shape="rect" id="node1" title="Geodetic coordinate, a position in 3D space relative to the reference geoid." alt="" coords="5,104,211,145"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_situation.html" title="Value object encapsulating information of an aircraft&#39;s situation." alt="" coords="291,5,441,47"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_geo_1_1_c_coordinate_geodetic.html" title="Geodetic coordinate." alt="" coords="261,71,471,112"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_geo_1_1_i_coordinate_with_relative_position.html" title="Interface (actually more an abstract class) of coordinates and relative position to something (normal..." alt="" coords="263,136,469,177"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_x_plane_1_1_c_nav_data_reference.html" title="Reference to an entry in X&#45;Plane&#39;s navigation data (airport, navaid, fix, etc.) with its position." alt="" coords="259,201,473,243"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_geo_1_1_c_elevation_plane.html" title="Plane of same elevation, can be a single point or larger area (e.g. airport)" alt="" coords="521,37,721,79"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_aviation_1_1_c_airport.html" title="Value object encapsulating information about an airpot." alt="" coords="547,103,696,144"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_aviation_1_1_c_atc_station.html" title="Value object encapsulating information about an ATC station." alt="" coords="547,168,696,209"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_c_simulated_aircraft.html" title="Comprehensive information of an aircraft." alt="" coords="538,233,705,275"/>
+</map>

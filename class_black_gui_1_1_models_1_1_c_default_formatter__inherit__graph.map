@@ -1,0 +1,33 @@
+<map id="BlackGui::Models::CDefaultFormatter" name="BlackGui::Models::CDefaultFormatter">
+<area shape="rect" id="node1" title="Column formatter default implementation, also serving as interface." alt="" coords="5,496,205,537"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_altitude_formatter.html" title="Formatter when column contains an altitude." alt="" coords="269,5,472,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_bool_text_formatter.html" title="Bool value, format as text." alt="" coords="267,71,475,112"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_models_1_1_c_clouds_formatter.html" title="Clouds." alt="" coords="273,136,469,177"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_models_1_1_c_color_formatter.html" title="Formatter when column contains a color." alt="" coords="277,201,464,243"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_models_1_1_c_coverage_formatter.html" title="Relative Humidity." alt="" coords="263,267,478,308"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_models_1_1_c_date_time_formatter.html" title="Formatter when column contains QDateTime, QDate or QTime." alt="" coords="263,332,479,373"/>
+<area shape="rect" id="node10" href="$class_black_gui_1_1_models_1_1_c_delegate_formatter.html" title="Layout will be defined by a delegate." alt="" coords="265,397,476,439"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_models_1_1_c_empty_formatter.html" title="Just returns a empty &quot;&quot; value." alt="" coords="273,463,468,504"/>
+<area shape="rect" id="node12" href="$class_black_gui_1_1_models_1_1_c_incognito_formatter.html" title="Just returns a empty &quot;&quot; value." alt="" coords="265,528,477,569"/>
+<area shape="rect" id="node13" href="$class_black_gui_1_1_models_1_1_c_integer_formatter.html" title="Formatter when column contains an integer." alt="" coords="271,593,470,635"/>
+<area shape="rect" id="node14" href="$class_black_gui_1_1_models_1_1_c_pixmap_formatter.html" title="Pixmap formatter." alt="" coords="270,659,471,700"/>
+<area shape="rect" id="node15" href="$class_black_gui_1_1_models_1_1_c_precipitation_formatter.html" title="Precipitation." alt="" coords="253,724,488,765"/>
+<area shape="rect" id="node16" href="$class_black_gui_1_1_models_1_1_c_precipitation_rate_formatter.html" title="Relative Humidity." alt="" coords="253,789,488,831"/>
+<area shape="rect" id="node17" href="$class_black_gui_1_1_models_1_1_c_relative_humidity_formatter.html" title="Relative Humidity." alt="" coords="267,855,474,896"/>
+<area shape="rect" id="node18" href="$class_black_gui_1_1_models_1_1_c_string_formatter.html" title="String formatter, if known the variant already contains the appropriate string." alt="" coords="275,920,466,961"/>
+<area shape="rect" id="node19" href="$class_black_gui_1_1_models_1_1_c_value_object_formatter.html" title="Default formatter when column contains CValueObject." alt="" coords="277,985,465,1027"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_models_1_1_c_bool_icon_formatter.html" title="Format as bool pixmap." alt="" coords="592,39,800,80"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_models_1_1_c_bool_led_formatter.html" title="Format as bool LED value." alt="" coords="594,104,798,145"/>
+<area shape="rect" id="node20" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="575,649,817,734"/>
+<area shape="rect" id="node22" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="578,758,814,843"/>
+<area shape="rect" id="node24" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="536,868,856,939"/>
+<area shape="rect" id="node26" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="577,963,815,1049"/>
+<area shape="rect" id="node28" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="559,1073,833,1129"/>
+<area shape="rect" id="node30" href="$class_black_gui_1_1_models_1_1_c_lat_lon_formatter.html" title="Latitude or Longitude formatter." alt="" coords="599,1153,793,1195"/>
+<area shape="rect" id="node31" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title="Formatter for physical quantities." alt="" coords="589,1219,803,1260"/>
+<area shape="rect" id="node21" href="$class_black_gui_1_1_models_1_1_c_airspace_distance_formatter.html" title="Airspace distance displayed in NM." alt="" coords="925,671,1133,712"/>
+<area shape="rect" id="node23" href="$class_black_gui_1_1_models_1_1_c_angle_degree_formatter.html" title="Angle in degrees." alt="" coords="934,780,1123,821"/>
+<area shape="rect" id="node25" href="$class_black_gui_1_1_models_1_1_c_com_frequency_formatter.html" title="COM frequencies." alt="" coords="904,883,1153,924"/>
+<area shape="rect" id="node27" href="$class_black_gui_1_1_models_1_1_c_speed_kts_formatter.html" title="Speed displayed in kts." alt="" coords="933,985,1125,1027"/>
+<area shape="rect" id="node29" href="$class_black_gui_1_1_models_1_1_c_temperature_formatter.html" title="Temperature in degrees." alt="" coords="911,1080,1146,1121"/>
+</map>

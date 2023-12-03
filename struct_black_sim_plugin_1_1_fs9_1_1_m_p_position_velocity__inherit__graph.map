@@ -1,0 +1,4 @@
+<map id="BlackSimPlugin::Fs9::MPPositionVelocity" name="BlackSimPlugin::Fs9::MPPositionVelocity">
+<area shape="rect" id="node1" title="Multiplayer packet &#45; position and velocity." alt="" coords="16,109,171,151"/>
+<area shape="rect" id="node2" href="$struct_black_sim_plugin_1_1_fs9_1_1_m_u_l_t_i_p_l_a_y_e_r___p_a_c_k_e_t___p_o_s_i_t_i_o_n___v_e_l_o_c_i_t_y.html" title="Full multiplayer position and velocity packet." alt="" coords="5,5,181,61"/>
+</map>

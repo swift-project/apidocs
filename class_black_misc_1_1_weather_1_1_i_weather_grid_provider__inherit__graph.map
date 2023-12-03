@@ -1,0 +1,4 @@
+<map id="BlackMisc::Weather::IWeatherGridProvider" name="BlackMisc::Weather::IWeatherGridProvider">
+<area shape="rect" id="node1" title="Direct threadsafe in memory access to weather grid." alt="" coords="29,5,198,47"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_c_weather_manager.html" title="CWeatherManager." alt="" coords="5,95,221,121"/>
+</map>

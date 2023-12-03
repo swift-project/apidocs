@@ -1,0 +1,16 @@
+<map id="BlackCore::CAirspaceMonitor" name="BlackCore::CAirspaceMonitor">
+<area shape="rect" id="node1" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="800,247,1011,273"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider.html" title="Implementaion of the interface, which can also be used for testing." alt="" coords="540,83,731,125"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="302,5,377,32"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_i_remote_aircraft_provider.html" title="Direct thread safe in memory access to remote aircraft." alt="" coords="246,57,433,98"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="5,123,160,149"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_network_1_1_i_client_provider.html" title="Direct in memory access to client (network client) data." alt="" coords="264,174,415,215"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="250,123,429,149"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_network_1_1_c_client_provider.html" title="Direct in memory access to client (network client) data." alt="" coords="560,174,711,215"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_c_own_aircraft_aware.html" title="Delegating class which can be directly used to access an." alt="" coords="552,239,719,281"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="242,239,437,281"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_simulation_1_1_c_simulation_environment_aware.html" title="Class which can be directly used to access an." alt="" coords="519,305,752,346"/>
+<area shape="rect" id="node12" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="208,305,471,346"/>
+<area shape="rect" id="node13" href="$class_black_misc_1_1_simulation_1_1_c_aircraft_model_set_aware.html" title="Delegating class which can be directly used to access an." alt="" coords="541,370,729,411"/>
+<area shape="rect" id="node14" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="230,370,449,411"/>
+</map>

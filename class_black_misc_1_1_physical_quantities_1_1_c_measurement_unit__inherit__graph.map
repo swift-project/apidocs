@@ -1,0 +1,14 @@
+<map id="BlackMisc::PhysicalQuantities::CMeasurementUnit" name="BlackMisc::PhysicalQuantities::CMeasurementUnit">
+<area shape="rect" id="node1" title="Base class for all units, such as meter, hertz." alt="" coords="232,267,449,308"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_physical_quantities_1_1_c_acceleration_unit.html" title="Specialized class for acceleration units (m/s2, ft/s2)." alt="" coords="497,5,715,47"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_physical_quantities_1_1_c_angle_unit.html" title="Specialized class for angles (degrees, radian)." alt="" coords="497,71,715,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_physical_quantities_1_1_c_frequency_unit.html" title="Specialized class for frequency (hertz, mega hertz, kilo hertz)." alt="" coords="497,136,715,177"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_physical_quantities_1_1_c_length_unit.html" title="Specialized class for distance units (meter, foot, nautical miles)." alt="" coords="497,201,715,243"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_physical_quantities_1_1_c_mass_unit.html" title="Specialized class for mass units (kg, lbs)." alt="" coords="497,267,715,308"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_physical_quantities_1_1_c_pressure_unit.html" title="Specialized class for pressure (psi, hPa, bar)." alt="" coords="497,332,715,373"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_physical_quantities_1_1_c_speed_unit.html" title="Specialized class for speed units (m/s, ft/s, NM/h)." alt="" coords="497,397,715,439"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_physical_quantities_1_1_c_temperature_unit.html" title="Specialized class for temperatur units (kelvin, centidegree)." alt="" coords="497,463,715,504"/>
+<area shape="rect" id="node12" href="$class_black_misc_1_1_physical_quantities_1_1_c_time_unit.html" title="Specialized class for time units (ms, hour, min)." alt="" coords="497,528,715,569"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_mixin_1_1_string.html" title=" " alt="" coords="5,233,184,275"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_icon.html" title=" " alt="" coords="5,299,184,340"/>
+</map>

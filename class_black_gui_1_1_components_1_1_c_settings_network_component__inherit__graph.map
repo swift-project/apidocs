@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CSettingsNetworkComponent" name="BlackGui::Components::CSettingsNetworkComponent">
+<area shape="rect" id="node1" title="General settings for network." alt="" coords="5,229,228,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="80,155,153,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="77,80,156,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="22,5,97,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="121,5,230,32"/>
+</map>

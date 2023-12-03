@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CMainKeypadAreaComponent" name="BlackGui::Components::CMainKeypadAreaComponent">
+<area shape="rect" id="node1" title="Main keypad area as used with main info area." alt="" coords="5,229,229,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="81,155,154,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="78,80,157,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="121,5,231,32"/>
+</map>

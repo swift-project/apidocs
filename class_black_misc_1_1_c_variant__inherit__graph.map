@@ -1,0 +1,9 @@
+<map id="BlackMisc::CVariant" name="BlackMisc::CVariant">
+<area shape="rect" id="node1" title="Wrapper around QVariant which provides transparent access to CValueObject methods of the contained ob..." alt="" coords="292,177,443,203"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_mixin_1_1_equals_by_compare.html" title=" " alt="" coords="33,5,216,47"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_less_than_by_compare.html" title=" " alt="" coords="24,71,225,112"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title=" " alt="" coords="5,136,244,177"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title=" " alt="" coords="15,201,234,243"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_json_operators.html" title=" " alt="" coords="9,267,240,308"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_string.html" title=" " alt="" coords="35,332,214,373"/>
+</map>

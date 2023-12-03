@@ -1,0 +1,11 @@
+<map id="BlackGui::CDockWidgetInfoBar" name="BlackGui::CDockWidgetInfoBar">
+<area shape="rect" id="node1" title="Class for dock widgets in the info area, containing some specialized functionality." alt="" coords="123,483,346,509"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_dock_widget.html" title="Our base class for dockable widgets containing some specialized functionality on top of QDockWidget." alt="" coords="147,408,323,435"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_dock_widget.html" title="Using this class provides a QDockWidget with the overlay functionality already integrated." alt="" coords="5,319,219,360"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="5,229,219,271"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qdockwidget.html" title=" " alt="" coords="57,155,167,181"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="73,80,151,107"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="17,5,92,32"/>
+<area shape="rect" id="node8" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="116,5,225,32"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_c_enable_for_frameless_window.html" title="Main window which can be frameless." alt="" coords="243,319,471,360"/>
+</map>

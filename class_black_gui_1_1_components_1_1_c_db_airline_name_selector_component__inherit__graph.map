@@ -1,0 +1,9 @@
+<map id="BlackGui::Components::CDbAirlineNameSelectorComponent" name="BlackGui::Components::CDbAirlineNameSelectorComponent">
+<area shape="rect" id="node1" title="Select airline by name." alt="" coords="37,319,304,360"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_airline_icao_selector_base.html" title="Airline ICAO selector base class." alt="" coords="65,229,276,271"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="63,155,137,181"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="61,80,139,107"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="104,5,213,32"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_c_drop_base.html" title="Utilities for dropping swift value objects." alt="" coords="161,155,321,181"/>
+</map>

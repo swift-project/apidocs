@@ -1,0 +1,9 @@
+<map id="BlackGui::Components::CAircraftModelValidationComponent" name="BlackGui::Components::CAircraftModelValidationComponent">
+<area shape="rect" id="node1" title="Handle validation result." alt="" coords="5,408,272,449"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="32,319,245,360"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="32,229,245,271"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="102,155,175,181"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="99,80,178,107"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="44,5,119,32"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="143,5,252,32"/>
+</map>

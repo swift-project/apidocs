@@ -1,0 +1,24 @@
+<map id="BlackCore::Context::IContext" name="BlackCore::Context::IContext">
+<area shape="rect" id="node1" title="Base for all context classes." alt="" coords="128,332,275,373"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_i_context_application.html" title="Application context interface." alt="" coords="324,120,483,161"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_context_1_1_i_context_audio.html" title="Audio context interface." alt="" coords="330,217,477,259"/>
+<area shape="rect" id="node11" href="$class_black_core_1_1_context_1_1_i_context_network.html" title="Network context proxy." alt="" coords="330,332,477,373"/>
+<area shape="rect" id="node15" href="$class_black_core_1_1_context_1_1_i_context_own_aircraft.html" title="Own context proxy." alt="" coords="323,496,484,537"/>
+<area shape="rect" id="node19" href="$class_black_core_1_1_context_1_1_i_context_simulator.html" title="Network context." alt="" coords="329,691,477,732"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,339,80,366"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_application.html" title="Application context." alt="" coords="555,5,717,47"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_context_1_1_c_context_application_empty.html" title="Application context." alt="" coords="533,71,739,112"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_application_proxy.html" title="Application context proxy." alt="" coords="536,136,736,177"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_context_1_1_c_context_audio_base.html" title="Audio context interface." alt="" coords="557,201,715,243"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_context_1_1_c_context_audio.html" title="Audio context implementation." alt="" coords="797,169,943,211"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_context_1_1_c_context_audio_proxy.html" title="Audio context proxy." alt="" coords="788,235,952,276"/>
+<area shape="rect" id="node12" href="$class_black_core_1_1_context_1_1_c_context_network.html" title="Network context implementation." alt="" coords="563,267,709,308"/>
+<area shape="rect" id="node13" href="$class_black_core_1_1_context_1_1_c_context_network_empty.html" title="Empty context, used during shutdown/initialization." alt="" coords="543,332,729,373"/>
+<area shape="rect" id="node14" href="$class_black_core_1_1_context_1_1_c_context_network_proxy.html" title="Network context proxy." alt="" coords="545,397,727,439"/>
+<area shape="rect" id="node16" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft.html" title="Own aircraft context implementation. Central instance of data for." alt="" coords="553,463,719,504"/>
+<area shape="rect" id="node17" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft_empty.html" title="Empty context, used during shutdown/initialization." alt="" coords="532,528,740,569"/>
+<area shape="rect" id="node18" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft_proxy.html" title="Own aircraft context proxy." alt="" coords="535,593,737,635"/>
+<area shape="rect" id="node20" href="$class_black_core_1_1_context_1_1_c_context_simulator.html" title="Network simulator concrete implementation." alt="" coords="559,659,713,700"/>
+<area shape="rect" id="node21" href="$class_black_core_1_1_context_1_1_c_context_simulator_empty.html" title="Empty context, used during shutdown/initialization." alt="" coords="539,724,733,765"/>
+<area shape="rect" id="node22" href="$class_black_core_1_1_context_1_1_c_context_simulator_proxy.html" title="DBus proxy for Simulator Context." alt="" coords="541,789,731,831"/>
+</map>

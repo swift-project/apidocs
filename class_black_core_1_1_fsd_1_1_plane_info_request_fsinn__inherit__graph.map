@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::PlaneInfoRequestFsinn" name="BlackCore::Fsd::PlaneInfoRequestFsinn">
+<area shape="rect" id="node1" title="FSinn specific version of plane information request." alt="" coords="20,80,208,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

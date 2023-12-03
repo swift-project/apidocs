@@ -1,0 +1,5 @@
+<map id="BlackGui::Models::CActionModel" name="BlackGui::Models::CActionModel">
+<area shape="rect" id="node1" title="Action tree model, used with hotkey actions." alt="" coords="5,155,199,196"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qabstractitemmodel.html" title=" " alt="" coords="24,80,180,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="65,5,139,32"/>
+</map>

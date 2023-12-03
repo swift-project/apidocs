@@ -1,0 +1,25 @@
+<map id="BlackMisc::CWorkerBase" name="BlackMisc::CWorkerBase">
+<area shape="rect" id="node1" title="Base class for CWorker and CContinuousWorker." alt="" coords="128,415,311,442"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="359,390,581,417"/>
+<area shape="rect" id="node23" href="$class_black_misc_1_1_c_worker.html" title="Class for doing some arbitrary parcel of work in its own thread." alt="" coords="395,441,545,467"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,415,80,442"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_afv_1_1_clients_1_1_c_afv_client.html" title="AFV client." alt="" coords="669,156,840,197"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_c_airspace_analyzer.html" title="Class monitoring and analyzing (closest aircraft, outdated aircraft / watchdog) airspace in backgroun..." alt="" coords="645,222,864,249"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_c_threaded_reader.html" title="Support for threaded based reading and parsing tasks such as data files via http, or file system and ..." alt="" coords="649,273,861,299"/>
+<area shape="rect" id="node17" href="$class_black_core_1_1_db_1_1_c_background_data_updater.html" title="Update and consolidation of DB data." alt="" coords="651,324,859,365"/>
+<area shape="rect" id="node18" href="$class_black_core_1_1_db_1_1_c_network_watchdog.html" title="Monitoring the swift DB, internet access, shared URLs." alt="" coords="629,390,880,417"/>
+<area shape="rect" id="node19" href="$class_black_core_1_1_fsd_1_1_c_f_s_d_client.html" title="FSD client Todo: Send (interim) data updates automatically Todo Check &#39;:&#39; in FSD messages...." alt="" coords="655,441,854,467"/>
+<area shape="rect" id="node20" href="$class_black_misc_1_1_c_data_cache_serializer.html" title="Worker which performs (de)serialization on behalf of CDataCache, in a separate thread so that the mai..." alt="" coords="636,491,873,518"/>
+<area shape="rect" id="node21" href="$class_black_misc_1_1_simulation_1_1_c_background_validation.html" title="Validate model files from the sets and check if the model still exists." alt="" coords="664,543,845,584"/>
+<area shape="rect" id="node22" href="$class_black_sound_1_1_c_threaded_tone_pair_player.html" title="Threaded tone player. Don&#39;t use it directly but use." alt="" coords="651,608,858,649"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_db_1_1_c_database_reader.html" title="Specialized version of threaded reader for DB data." alt="" coords="928,103,1121,144"/>
+<area shape="rect" id="node12" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_booking_reader.html" title="Read bookings from VATSIM." alt="" coords="937,168,1112,209"/>
+<area shape="rect" id="node13" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_data_file_reader.html" title="Read vatsim data file." alt="" coords="937,233,1113,275"/>
+<area shape="rect" id="node14" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_metar_reader.html" title="Read METARs from VATSIM." alt="" coords="945,299,1105,340"/>
+<area shape="rect" id="node15" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_server_file_reader.html" title="Read VATSIM server file." alt="" coords="931,364,1118,405"/>
+<area shape="rect" id="node16" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_status_file_reader.html" title="Sole purpose is to read the URLs where VATSIM data can be downloaded." alt="" coords="931,429,1118,471"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_db_1_1_c_airport_data_reader.html" title="Reader for airport database data." alt="" coords="1169,5,1376,47"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_db_1_1_c_icao_data_reader.html" title="Read ICAO data from Database." alt="" coords="1178,71,1367,112"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_db_1_1_c_info_data_reader.html" title="Read information about data from Database or shared files such as when updated and number of entries." alt="" coords="1179,136,1366,177"/>
+<area shape="rect" id="node11" href="$class_black_core_1_1_db_1_1_c_model_data_reader.html" title="Read model related data from Database." alt="" coords="1171,201,1374,243"/>
+</map>

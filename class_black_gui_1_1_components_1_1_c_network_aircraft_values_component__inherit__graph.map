@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CNetworkAircraftValuesComponent" name="BlackGui::Components::CNetworkAircraftValuesComponent">
+<area shape="rect" id="node1" title="Display the network aircraft values as sent." alt="" coords="5,229,264,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="98,155,171,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="95,80,174,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="40,5,115,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="139,5,248,32"/>
+</map>

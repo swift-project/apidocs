@@ -1,0 +1,9 @@
+<map id="BlackMisc::Simulation::CInterpolationSetupAware" name="BlackMisc::Simulation::CInterpolationSetupAware">
+<area shape="rect" id="node1" title="Class which can be directly used to access an." alt="" coords="284,93,484,134"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="532,5,747,61"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="532,85,747,141"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title="Interpolator, calculation inbetween positions." alt="" coords="541,166,737,207"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,93,236,134"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_spline.html" title="Cubic spline interpolator." alt="" coords="795,13,961,54"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_linear.html" title="Linear interpolator, calculation inbetween positions." alt="" coords="795,93,961,134"/>
+</map>

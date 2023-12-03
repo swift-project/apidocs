@@ -1,0 +1,6 @@
+<map id="BlackMisc::CLogHistoryReplica" name="BlackMisc::CLogHistoryReplica">
+<area shape="rect" id="node1" title="Allows distributed access to the log messages of a central CLogHistory." alt="" coords="16,273,239,300"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_list_observer.html" title=" " alt="" coords="5,169,249,225"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_generic_list_observer.html" title="Non&#45;template base class for CListObserver." alt="" coords="40,80,215,121"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="90,5,165,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="BlackMisc::Weather::CTemperatureLayerList" name="BlackMisc::Weather::CTemperatureLayerList">
+<area shape="rect" id="node1" title="Value object encapsulating a set of temperature layers." alt="" coords="809,235,989,276"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="571,201,749,243"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_container_base.html" title="Base class for CCollection and CSequence adding mutating operations and CValueObject facility on top ..." alt="" coords="301,136,501,177"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_range_base.html" title="Any container class with begin and end iterators can inherit from this CRTP class to gain some useful..." alt="" coords="35,5,214,47"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title="CRTP class template from which a derived class can inherit common methods dealing with the metatype o..." alt="" coords="23,71,226,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title=" " alt="" coords="5,136,244,177"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_json_operators.html" title="CRTP class template which will generate marshalling operators for a derived class with its own marsha..." alt="" coords="9,201,240,243"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_mixin_1_1_string.html" title="CRTP class template from which a derived class can inherit string streaming operations." alt="" coords="35,267,214,308"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title="CRTP class template to generate non&#45;member QDataStream streaming operators." alt="" coords="292,201,511,243"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_mixin_1_1_icon.html" title="CRTP class template from which a derived class can inherit icon&#45;related functions." alt="" coords="314,267,489,308"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title=" " alt="" coords="559,267,761,308"/>
+</map>

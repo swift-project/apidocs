@@ -1,0 +1,8 @@
+<map id="BlackGui::Menus::IAircraftModelViewMenu" name="BlackGui::Menus::IAircraftModelViewMenu">
+<area shape="rect" id="node1" title="Menu base class for aircraft model view menus." alt="" coords="415,71,605,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_menus_1_1_c_consolidate_with_db_data_menu.html" title="Consolidate/merge with DB data." alt="" coords="664,5,889,47"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_menus_1_1_c_consolidate_with_simulator_models.html" title="Merge/update with simulator models (e.g. remove no longer existing models)" alt="" coords="664,71,889,112"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_menus_1_1_c_show_simulator_file_menu.html" title="Open the simulator file (e.g. aircraft.cfg) in the standard text editor." alt="" coords="653,136,900,177"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_menus_1_1_i_menu_delegate.html" title="Interface to implement a custom menu." alt="" coords="128,78,367,105"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,78,80,105"/>
+</map>

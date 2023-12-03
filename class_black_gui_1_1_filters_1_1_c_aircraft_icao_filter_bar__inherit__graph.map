@@ -1,0 +1,9 @@
+<map id="BlackGui::Filters::CAircraftIcaoFilterBar" name="BlackGui::Filters::CAircraftIcaoFilterBar">
+<area shape="rect" id="node1" title="Aircraft ICAO filter bar." alt="" coords="704,61,864,102"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_filters_1_1_c_filter_widget.html" title="Base for filter dialog." alt="" coords="465,23,601,65"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,31,363,57"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_models_1_1_i_model_filter_provider.html" title=" " alt="" coords="411,89,656,145"/>
+</map>

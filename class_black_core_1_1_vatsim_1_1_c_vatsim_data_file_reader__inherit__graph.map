@@ -1,0 +1,9 @@
+<map id="BlackCore::Vatsim::CVatsimDataFileReader" name="BlackCore::Vatsim::CVatsimDataFileReader">
+<area shape="rect" id="node1" title="Read vatsim data file." alt="" coords="145,333,321,375"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_c_threaded_reader.html" title="Support for threaded based reading and parsing tasks such as data files via http, or file system and ..." alt="" coords="24,251,236,278"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="5,162,228,189"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="25,80,208,107"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="79,5,154,32"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_network_1_1_c_ecosystem_aware.html" title="Delegating class which can be directly used to access an." alt="" coords="267,244,417,285"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="253,155,447,196"/>
+</map>

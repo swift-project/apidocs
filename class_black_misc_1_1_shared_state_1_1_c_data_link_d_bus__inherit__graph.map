@@ -1,0 +1,5 @@
+<map id="BlackMisc::SharedState::CDataLinkDBus" name="BlackMisc::SharedState::CDataLinkDBus">
+<area shape="rect" id="node1" title="A transport mechanism using signals and slots distributed by DBus." alt="" coords="30,95,205,136"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,13,80,39"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_i_data_link.html" title="Interface that provides a transport mechanism for sharing state." alt="" coords="105,5,279,47"/>
+</map>

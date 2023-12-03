@@ -1,0 +1,8 @@
+<map id="BlackCore::Context::IContextAudio" name="BlackCore::Context::IContextAudio">
+<area shape="rect" id="node1" title="Audio context interface." alt="" coords="95,169,241,211"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_audio_base.html" title="Audio context interface." alt="" coords="89,259,247,300"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="95,80,241,121"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="131,5,205,32"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_context_1_1_c_context_audio.html" title="Audio context implementation." alt="" coords="5,348,152,389"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_audio_proxy.html" title="Audio context proxy." alt="" coords="177,348,341,389"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackGui::Models::CBoolTextFormatter" name="BlackGui::Models::CBoolTextFormatter">
+<area shape="rect" id="node1" title="Bool value, format as text." alt="" coords="120,95,328,136"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_bool_icon_formatter.html" title="Format as bool pixmap." alt="" coords="5,184,213,225"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_models_1_1_c_bool_led_formatter.html" title="Format as bool LED value." alt="" coords="238,184,442,225"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="124,5,324,47"/>
+</map>

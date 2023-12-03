@@ -1,0 +1,6 @@
+<map id="BlackMisc::CSettingsCache" name="BlackMisc::CSettingsCache">
+<area shape="rect" id="node1" title="Singleton derived class of CValueCache, for settings." alt="" coords="5,155,204,181"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_value_cache.html" title="Manages a map of { QString, CVariant } pairs, which can be distributed among multiple processes." alt="" coords="14,80,195,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="13,5,87,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="111,5,210,32"/>
+</map>

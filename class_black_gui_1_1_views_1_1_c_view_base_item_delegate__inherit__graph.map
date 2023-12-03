@@ -1,0 +1,6 @@
+<map id="BlackGui::Views::CViewBaseItemDelegate" name="BlackGui::Views::CViewBaseItemDelegate">
+<area shape="rect" id="node1" title="Delegate for our view items." alt="" coords="5,229,213,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qstyleditemdelegate.html" title=" " alt="" coords="28,155,191,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qabstractitemdelegate.html" title=" " alt="" coords="22,80,197,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="72,5,147,32"/>
+</map>

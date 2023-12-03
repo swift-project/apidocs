@@ -1,0 +1,7 @@
+<map id="BlackCore::CApplication" name="BlackCore::CApplication">
+<area shape="rect" id="node1" title="Our runtime." alt="" coords="28,80,207,107"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_gui_application.html" title="GUI application, a specialized version of BlackCore::CApplication for GUI applications." alt="" coords="21,155,213,181"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="104,5,283,32"/>
+<area shape="rect" id="node5" href="$class_c_swift_gui_std_application.html" title="Specialized GUI application for swift pilot client." alt="" coords="28,229,207,256"/>
+</map>

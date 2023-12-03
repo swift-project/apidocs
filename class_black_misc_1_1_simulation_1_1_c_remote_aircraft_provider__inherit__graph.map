@@ -1,0 +1,9 @@
+<map id="BlackMisc::Simulation::CRemoteAircraftProvider" name="BlackMisc::Simulation::CRemoteAircraftProvider">
+<area shape="rect" id="node1" title="Implementaion of the interface, which can also be used for testing." alt="" coords="141,169,331,211"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="5,266,216,293"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider_dummy.html" title="Dummy implementation for testing purpose." alt="" coords="240,259,483,300"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="44,87,119,114"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_i_remote_aircraft_provider.html" title="Direct thread safe in memory access to remote aircraft." alt="" coords="143,80,329,121"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="159,5,313,32"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="353,87,532,114"/>
+</map>

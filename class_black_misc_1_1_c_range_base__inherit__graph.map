@@ -1,0 +1,51 @@
+<map id="BlackMisc::CRangeBase&lt; Derived &gt;" name="BlackMisc::CRangeBase&lt; Derived &gt;">
+<area shape="rect" id="node1" title="Any container class with begin and end iterators can inherit from this CRTP class to gain some useful..." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_container_base.html" title=" " alt="" coords="232,5,432,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_container_base.html" title=" " alt="" coords="232,71,432,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_container_base.html" title="Base class for CCollection and CSequence adding mutating operations and CValueObject facility on top ..." alt="" coords="232,1476,432,1517"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_collection.html" title="Generic ordered container with value semantics." alt="" coords="486,13,694,39"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_c_sequence.html" title="Generic sequential container with value semantics." alt="" coords="487,70,693,97"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_c_collection.html" title=" " alt="" coords="505,121,675,163"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_c_collection.html" title=" " alt="" coords="505,187,675,228"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_c_collection.html" title=" " alt="" coords="505,252,675,293"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_c_collection.html" title=" " alt="" coords="505,317,675,359"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="485,383,695,424"/>
+<area shape="rect" id="node12" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,448,674,489"/>
+<area shape="rect" id="node13" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,513,674,555"/>
+<area shape="rect" id="node14" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,579,674,620"/>
+<area shape="rect" id="node15" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,644,674,685"/>
+<area shape="rect" id="node16" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,709,674,751"/>
+<area shape="rect" id="node17" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="498,775,682,816"/>
+<area shape="rect" id="node18" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="480,841,700,897"/>
+<area shape="rect" id="node19" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,921,674,963"/>
+<area shape="rect" id="node20" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,987,674,1028"/>
+<area shape="rect" id="node21" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="485,1052,695,1093"/>
+<area shape="rect" id="node22" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="503,1117,677,1159"/>
+<area shape="rect" id="node23" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="483,1183,697,1224"/>
+<area shape="rect" id="node24" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1248,674,1289"/>
+<area shape="rect" id="node25" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1313,674,1355"/>
+<area shape="rect" id="node26" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1379,674,1420"/>
+<area shape="rect" id="node27" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1444,674,1485"/>
+<area shape="rect" id="node28" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1509,674,1551"/>
+<area shape="rect" id="node29" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1575,674,1616"/>
+<area shape="rect" id="node30" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1640,674,1681"/>
+<area shape="rect" id="node31" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1705,674,1747"/>
+<area shape="rect" id="node32" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="495,1771,685,1812"/>
+<area shape="rect" id="node33" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1836,674,1877"/>
+<area shape="rect" id="node34" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1901,674,1943"/>
+<area shape="rect" id="node35" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,1967,674,2008"/>
+<area shape="rect" id="node36" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="505,2032,675,2073"/>
+<area shape="rect" id="node37" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="483,2097,697,2139"/>
+<area shape="rect" id="node38" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2163,674,2204"/>
+<area shape="rect" id="node39" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2228,674,2269"/>
+<area shape="rect" id="node40" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2293,674,2335"/>
+<area shape="rect" id="node41" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2359,674,2400"/>
+<area shape="rect" id="node42" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="503,2424,677,2465"/>
+<area shape="rect" id="node43" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="505,2489,675,2531"/>
+<area shape="rect" id="node44" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2555,674,2596"/>
+<area shape="rect" id="node45" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2620,674,2661"/>
+<area shape="rect" id="node46" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2685,674,2727"/>
+<area shape="rect" id="node47" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2751,674,2792"/>
+<area shape="rect" id="node48" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="501,2816,679,2857"/>
+<area shape="rect" id="node49" href="$class_black_misc_1_1_c_sequence.html" title=" " alt="" coords="506,2881,674,2923"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BlackMisc::ITimestampWithOffsetBased" name="BlackMisc::ITimestampWithOffsetBased">
+<area shape="rect" id="node1" title="Entity with timestamp." alt="" coords="268,71,472,112"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_parts.html" title="Value object encapsulating information of aircraft&#39;s parts." alt="" coords="542,5,691,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_situation.html" title="Value object encapsulating information of an aircraft&#39;s situation." alt="" coords="542,71,691,112"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_situation_change.html" title="Value object about changes in situations." alt="" coords="520,136,713,177"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_timestamp_based.html" title="Entity with timestamp." alt="" coords="5,78,220,105"/>
+</map>

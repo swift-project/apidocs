@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::VisualPilotDataToggle" name="BlackCore::Fsd::VisualPilotDataToggle">
+<area shape="rect" id="node1" title="Message from server to start or stop sending visual pilot data updates." alt="" coords="16,80,212,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

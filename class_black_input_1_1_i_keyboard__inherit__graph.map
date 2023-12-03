@@ -1,0 +1,7 @@
+<map id="BlackInput::IKeyboard" name="BlackInput::IKeyboard">
+<area shape="rect" id="node1" title="Abstract interface for native keyboard handling." alt="" coords="259,80,423,107"/>
+<area shape="rect" id="node3" href="$class_black_input_1_1_c_keyboard_linux.html" title="Linux implemenation of IKeyboard using hook procedure." alt="" coords="5,155,209,181"/>
+<area shape="rect" id="node4" href="$class_black_input_1_1_c_keyboard_mac_o_s.html" title="MacOS implemenation of IKeyboard using hook procedure." alt="" coords="233,155,448,181"/>
+<area shape="rect" id="node5" href="$class_black_input_1_1_c_keyboard_windows.html" title="Windows implemenation of IKeyboard using hook procedure." alt="" coords="472,155,700,181"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="303,5,378,32"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="BlackCore::Fsd::MessageBase" name="BlackCore::Fsd::MessageBase">
+<area shape="rect" id="node1" title="FSD message base class." alt="" coords="5,776,223,803"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_add_atc.html" title="Add ATC message." alt="" coords="309,5,483,32"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_fsd_1_1_add_pilot.html" title="FSD Message: Add Pilot." alt="" coords="305,56,487,83"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_fsd_1_1_atc_data_update.html" title="FSD Message: ATC data update." alt="" coords="283,107,509,133"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_fsd_1_1_auth_challenge.html" title="FSD Message: auth challenge." alt="" coords="285,157,507,184"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_fsd_1_1_auth_response.html" title="Responds to an authentication challenge. The protocol for formulating and responding to auth challeng..." alt="" coords="286,208,506,235"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_fsd_1_1_client_identification.html" title="This packet is sent by any client that supports the VATSIM client authentication protocol,..." alt="" coords="271,259,521,285"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_fsd_1_1_client_query.html" title="This packet is used to query a client’s data." alt="" coords="294,309,498,336"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_fsd_1_1_client_response.html" title="This packet is used to respond to a client data request." alt="" coords="282,360,510,387"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_fsd_1_1_delete_atc.html" title="FSD Message Delete ATC." alt="" coords="301,411,491,437"/>
+<area shape="rect" id="node11" href="$class_black_core_1_1_fsd_1_1_delete_pilot.html" title="Used to notify the server of the intention to close the connection. If a client receives this packet ..." alt="" coords="297,461,495,488"/>
+<area shape="rect" id="node12" href="$class_black_core_1_1_fsd_1_1_euroscope_sim_data.html" title="Pilot data update broadcast by Euroscope Simulator every second." alt="" coords="299,513,493,554"/>
+<area shape="rect" id="node13" href="$class_black_core_1_1_fsd_1_1_f_s_d_identification.html" title="This packet is sent by the server immediately after a new client connection is made." alt="" coords="277,579,515,605"/>
+<area shape="rect" id="node14" href="$class_black_core_1_1_fsd_1_1_flight_plan.html" title="FSD Message: flightplan." alt="" coords="300,629,492,656"/>
+<area shape="rect" id="node15" href="$class_black_core_1_1_fsd_1_1_interim_pilot_data_update.html" title="Interim pilot data update sent to specific receivers faster than the standard broadcast update." alt="" coords="295,681,497,722"/>
+<area shape="rect" id="node16" href="$class_black_core_1_1_fsd_1_1_kill_request.html" title="Kill request initiated from the server or supervisor. Client needs to disconnect immediatly upon rece..." alt="" coords="295,747,497,773"/>
+<area shape="rect" id="node17" href="$class_black_core_1_1_fsd_1_1_pilot_data_update.html" title="Pilot data update broadcasted to all clients in range every 5 seconds." alt="" coords="303,798,489,839"/>
+<area shape="rect" id="node18" href="$class_black_core_1_1_fsd_1_1_ping.html" title="Ping. Needs to be answered with a pong." alt="" coords="319,864,473,891"/>
+<area shape="rect" id="node19" href="$class_black_core_1_1_fsd_1_1_plane_info_request.html" title="Request to send plane information. Shall be answered by a PlaneInformation message." alt="" coords="302,915,490,957"/>
+<area shape="rect" id="node20" href="$class_black_core_1_1_fsd_1_1_plane_info_request_fsinn.html" title="FSinn specific version of plane information request." alt="" coords="302,981,490,1022"/>
+<area shape="rect" id="node21" href="$class_black_core_1_1_fsd_1_1_plane_information.html" title="This packet is sent in reply to a PIR request to inform the client which multiplayer model to use...." alt="" coords="277,1047,515,1073"/>
+<area shape="rect" id="node22" href="$class_black_core_1_1_fsd_1_1_plane_information_fsinn.html" title="This packet is sent in reply to a FSinn request (FSIPIR)" alt="" coords="277,1098,515,1139"/>
+<area shape="rect" id="node23" href="$class_black_core_1_1_fsd_1_1_pong.html" title="Sent or received as reply to a ping." alt="" coords="317,1164,475,1191"/>
+<area shape="rect" id="node24" href="$class_black_core_1_1_fsd_1_1_rehost.html" title="The server requests us to connect to a different server." alt="" coords="310,1215,482,1241"/>
+<area shape="rect" id="node25" href="$class_black_core_1_1_fsd_1_1_rev_b_client_parts.html" title="This packet is used to translate client’s parts from RevB IVAO &#45;MD. &#45;MDMDN0104:262396:262396:262396." alt="" coords="297,1266,495,1307"/>
+<area shape="rect" id="node26" href="$class_black_core_1_1_fsd_1_1_server_error.html" title="FSD Message Server Error." alt="" coords="296,1332,496,1359"/>
+<area shape="rect" id="node27" href="$class_black_core_1_1_fsd_1_1_text_message.html" title="Text, radio or private message." alt="" coords="290,1383,502,1409"/>
+<area shape="rect" id="node28" href="$class_black_core_1_1_fsd_1_1_visual_pilot_data_periodic.html" title="Every 25th VisualPilotDataUpdate is actually one of these (&quot;slowfast&quot;)." alt="" coords="298,1434,494,1475"/>
+<area shape="rect" id="node29" href="$class_black_core_1_1_fsd_1_1_visual_pilot_data_stopped.html" title="VisualPilotDataUpdate with velocity assumed to be zero." alt="" coords="298,1499,494,1541"/>
+<area shape="rect" id="node30" href="$class_black_core_1_1_fsd_1_1_visual_pilot_data_toggle.html" title="Message from server to start or stop sending visual pilot data updates." alt="" coords="298,1565,494,1606"/>
+<area shape="rect" id="node31" href="$class_black_core_1_1_fsd_1_1_visual_pilot_data_update.html" title="Pilot data update broadcasted to pilots in range every 0.2 seconds." alt="" coords="298,1630,494,1671"/>
+</map>

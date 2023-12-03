@@ -1,0 +1,11 @@
+<map id="BlackCore::Context::CContextSimulator" name="BlackCore::Context::CContextSimulator">
+<area shape="rect" id="node1" title="Network simulator concrete implementation." alt="" coords="628,104,781,145"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context_simulator.html" title="Network context." alt="" coords="408,5,556,47"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="159,5,305,47"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,13,80,39"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_aircraft_model_set_provider.html" title="Value object encapsulating a list of aircraft models." alt="" coords="384,71,580,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="155,78,309,105"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_aware.html" title="Class which can be directly used to access an." alt="" coords="393,136,571,177"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="128,136,336,177"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="393,202,571,229"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackGui::Models::CComFrequencyFormatter" name="BlackGui::Models::CComFrequencyFormatter">
+<area shape="rect" id="node1" title="COM frequencies." alt="" coords="857,20,1107,61"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="489,5,809,76"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_value_object_formatter.html" title="Default formatter when column contains CValueObject." alt="" coords="253,20,441,61"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="5,20,205,61"/>
+</map>

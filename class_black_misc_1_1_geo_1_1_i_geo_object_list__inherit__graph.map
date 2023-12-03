@@ -1,0 +1,10 @@
+<map id="BlackMisc::Geo::IGeoObjectList&lt; OBJ, CONTAINER &gt;" name="BlackMisc::Geo::IGeoObjectList&lt; OBJ, CONTAINER &gt;">
+<area shape="rect" id="node1" title="List of objects with geo coordinates." alt="" coords="5,145,208,186"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_geo_1_1_i_geo_object_with_relative_position_list.html" title=" " alt="" coords="260,5,495,61"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_geo_1_1_i_geo_object_with_relative_position_list.html" title=" " alt="" coords="256,86,499,157"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_geo_1_1_i_geo_object_with_relative_position_list.html" title=" " alt="" coords="276,181,479,237"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_geo_1_1_i_geo_object_with_relative_position_list.html" title="List of objects with geo coordinates." alt="" coords="276,261,479,317"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_aviation_1_1_c_atc_station_list.html" title="Value object for a list of ATC stations." alt="" coords="559,13,709,54"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_simulated_aircraft_list.html" title="Value object encapsulating a list of aircraft." alt="" coords="547,101,721,142"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_aviation_1_1_c_airport_list.html" title="Value object for a list of airports." alt="" coords="559,189,709,230"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BlackGui::CSystemTrayWindow" name="BlackGui::CSystemTrayWindow">
+<area shape="rect" id="node1" title="QDialog which can minimize to system tray." alt="" coords="5,229,231,256"/>
+<area shape="rect" id="node6" href="$class_c_swift_core.html" title="swift core control GUI" alt="" coords="71,304,165,331"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qmainwindow.html" title=" " alt="" coords="60,155,176,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="79,80,157,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,98,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="122,5,231,32"/>
+</map>

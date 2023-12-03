@@ -1,0 +1,8 @@
+<map id="BlackCore::Context::CContextAudio" name="BlackCore::Context::CContextAudio">
+<area shape="rect" id="node1" title="Audio context implementation." alt="" coords="99,348,245,389"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_c_context_audio_base.html" title="Audio context interface." alt="" coords="93,259,251,300"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_i_context_audio.html" title="Audio context interface." alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="5,80,152,121"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="41,5,116,32"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="176,177,355,203"/>
+</map>

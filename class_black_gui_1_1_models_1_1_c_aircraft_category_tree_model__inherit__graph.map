@@ -1,0 +1,6 @@
+<map id="BlackGui::Models::CAircraftCategoryTreeModel" name="BlackGui::Models::CAircraftCategoryTreeModel">
+<area shape="rect" id="node1" title="ATC list model." alt="" coords="5,229,204,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qstandarditemmodel.html" title=" " alt="" coords="25,155,185,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qabstractitemmodel.html" title=" " alt="" coords="27,80,183,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="67,5,142,32"/>
+</map>

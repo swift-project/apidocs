@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CCopyConfigurationWizardPage" name="BlackGui::Components::CCopyConfigurationWizardPage">
+<area shape="rect" id="node1" title="Wizard page for CCopyConfigurationComponent." alt="" coords="5,229,240,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwizardpage.html" title=" " alt="" coords="69,155,177,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="83,80,162,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="28,5,103,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="127,5,236,32"/>
+</map>

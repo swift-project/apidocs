@@ -1,0 +1,7 @@
+<map id="BlackMisc::Db::IDatastoreObjectWithStringKey" name="BlackMisc::Db::IDatastoreObjectWithStringKey">
+<area shape="rect" id="node1" title="Class from which a derived class can inherit datastore&#45;related functions." alt="" coords="80,169,271,211"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_country.html" title="Color." alt="" coords="5,266,161,293"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_distributor.html" title="Value object encapsulating information of software distributor." alt="" coords="185,259,352,300"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_db_1_1_i_datastore_object.html" title="Supposed to be used only in filter operations." alt="" coords="80,80,271,121"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_i_timestamp_based.html" title="Entity with timestamp." alt="" coords="68,5,283,32"/>
+</map>

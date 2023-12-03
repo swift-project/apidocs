@@ -1,0 +1,4 @@
+<map id="BlackSimPlugin::Fs9::MPChangePlayerPlane" name="BlackSimPlugin::Fs9::MPChangePlayerPlane">
+<area shape="rect" id="node1" title="Multiplayer packet &#45; change player plane." alt="" coords="13,109,189,151"/>
+<area shape="rect" id="node2" href="$struct_black_sim_plugin_1_1_fs9_1_1_m_u_l_t_i_p_l_a_y_e_r___p_a_c_k_e_t___c_h_a_n_g_e___p_l_a_y_e_r___p_l_a_n_e.html" title="Multiplayer player aircraft name packet." alt="" coords="5,5,196,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackCore::IProgressIndicator" name="BlackCore::IProgressIndicator">
+<area shape="rect" id="node1" title="Implementing class features a progress bar or something similar." alt="" coords="5,78,219,105"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_auto_simulator_stashing_component.html" title="Allows to automatically update models if found in own model set, but already existing for a sibling s..." alt="" coords="267,5,548,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_auto_stashing_component.html" title="Stashing component." alt="" coords="298,71,517,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_db_reduce_model_duplicates.html" title="Reduce modelss." alt="" coords="300,136,515,177"/>
+</map>

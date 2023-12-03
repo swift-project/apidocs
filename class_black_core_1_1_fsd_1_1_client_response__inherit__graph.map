@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::ClientResponse" name="BlackCore::Fsd::ClientResponse">
+<area shape="rect" id="node1" title="This packet is used to respond to a client data request." alt="" coords="5,80,233,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="11,5,228,32"/>
+</map>

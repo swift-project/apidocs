@@ -1,0 +1,18 @@
+<map id="BlackGui::Views::CAircraftModelView" name="BlackGui::Views::CAircraftModelView">
+<area shape="rect" id="node1" title="Aircraft view." alt="" coords="246,989,437,1031"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_views_1_1_c_orderable_view_with_db_objects.html" title=" " alt="" coords="235,885,448,941"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_views_1_1_c_view_with_db_objects.html" title="Base class for views with DB objects." alt="" coords="238,796,445,837"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_views_1_1_c_view_base.html" title="Base class for views." alt="" coords="218,721,465,748"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_views_1_1_c_view_base_non_template.html" title="Non templated base class, allows Q_OBJECT and signals / slots to be used." alt="" coords="121,632,329,673"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_c_overlay_messages_table_view.html" title="Using this class provides a QTableView with the overlay functionality already integrated." alt="" coords="5,543,219,584"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="5,453,219,495"/>
+<area shape="rect" id="node8" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qtableview.html" title=" " alt="" coords="63,379,161,405"/>
+<area shape="rect" id="node9" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qabstractitemview.html" title=" " alt="" coords="38,304,186,331"/>
+<area shape="rect" id="node10" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qabstractscrollarea.html" title=" " alt="" coords="36,229,188,256"/>
+<area shape="rect" id="node11" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="75,155,149,181"/>
+<area shape="rect" id="node12" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="73,80,151,107"/>
+<area shape="rect" id="node13" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="17,5,92,32"/>
+<area shape="rect" id="node14" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="116,5,225,32"/>
+<area shape="rect" id="node15" href="$class_black_gui_1_1_c_enable_for_dock_widget_info_area.html" title="Helper class: If a component is residing in an dockable widget. This class provides access to its inf..." alt="" coords="243,543,437,584"/>
+<area shape="rect" id="node16" href="$class_black_gui_1_1_models_1_1_i_selection_model.html" title=" " alt="" coords="354,632,561,673"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="XSwiftBus::IDispatchable" name="XSwiftBus::IDispatchable">
+<area shape="rect" id="node1" title="Dispatchable Interface." alt="" coords="128,5,312,32"/>
+<area shape="rect" id="node2" href="$class_x_swift_bus_1_1_c_d_bus_connection.html" title="DBus connection." alt="" coords="5,80,216,107"/>
+<area shape="rect" id="node3" href="$class_x_swift_bus_1_1_c_d_bus_server.html" title="DBus connection." alt="" coords="241,80,421,107"/>
+</map>

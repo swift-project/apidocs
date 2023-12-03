@@ -1,0 +1,4 @@
+<map id="BlackGui::CSingleApplicationUi" name="BlackGui::CSingleApplicationUi">
+<area shape="rect" id="node1" title="Enable / disable UI depending on how many swift applications are running." alt="" coords="5,5,229,32"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_settings_gui_component.html" title="General GUI settings." alt="" coords="23,80,212,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackMisc::Simulation::IAircraftModelSetProvider" name="BlackMisc::Simulation::IAircraftModelSetProvider">
+<area shape="rect" id="node1" title="Value object encapsulating a list of aircraft models." alt="" coords="111,80,307,121"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_c_aircraft_matcher.html" title="Matcher for all models." alt="" coords="5,177,211,203"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_simulator.html" title="Network simulator concrete implementation." alt="" coords="235,169,389,211"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="132,5,287,32"/>
+</map>

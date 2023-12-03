@@ -1,0 +1,8 @@
+<map id="BlackMisc::Network::CEcosystemAware" name="BlackMisc::Network::CEcosystemAware">
+<area shape="rect" id="node1" title="Delegating class which can be directly used to access an." alt="" coords="248,104,399,145"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_booking_reader.html" title="Read bookings from VATSIM." alt="" coords="453,5,627,47"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_data_file_reader.html" title="Read vatsim data file." alt="" coords="452,71,628,112"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_metar_reader.html" title="Read METARs from VATSIM." alt="" coords="460,136,620,177"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_vatsim_1_1_c_vatsim_server_file_reader.html" title="Read VATSIM server file." alt="" coords="447,201,633,243"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,104,200,145"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CCockpitComAudioDialog" name="BlackGui::Components::CCockpitComAudioDialog">
+<area shape="rect" id="node1" title="Cockpit COM component as dialog." alt="" coords="5,229,203,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qdialog.html" title=" " alt="" coords="67,155,141,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="65,80,143,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="9,5,84,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="108,5,217,32"/>
+</map>

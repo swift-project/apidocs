@@ -1,0 +1,7 @@
+<map id="BlackGui::CLoadIndicatorEnabled" name="BlackGui::CLoadIndicatorEnabled">
+<area shape="rect" id="node1" title="Enable widget class for load indicator." alt="" coords="5,104,191,145"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_load_overview_component.html" title="Overview about load state of DB data." alt="" coords="239,5,464,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_login_component.html" title="Login to DB." alt="" coords="266,71,437,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_download_component.html" title="Download a file." alt="" coords="262,136,441,177"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_components_1_1_c_install_x_swift_bus_component.html" title="Download and install XSwiftBus." alt="" coords="242,201,461,243"/>
+</map>

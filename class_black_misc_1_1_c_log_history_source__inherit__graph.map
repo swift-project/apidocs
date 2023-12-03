@@ -1,0 +1,6 @@
+<map id="BlackMisc::CLogHistorySource" name="BlackMisc::CLogHistorySource">
+<area shape="rect" id="node1" title="Allows distributed insertion of log messages into a central CLogHistory." alt="" coords="14,273,233,300"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_list_mutator.html" title=" " alt="" coords="5,169,241,225"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_generic_list_mutator.html" title="Non&#45;template base class for CListMutator." alt="" coords="36,80,211,121"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="86,5,161,32"/>
+</map>

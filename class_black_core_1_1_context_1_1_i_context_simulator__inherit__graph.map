@@ -1,0 +1,8 @@
+<map id="BlackCore::Context::IContextSimulator" name="BlackCore::Context::IContextSimulator">
+<area shape="rect" id="node1" title="Network context." alt="" coords="323,71,471,112"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_simulator.html" title="Network simulator concrete implementation." alt="" coords="539,5,693,47"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_context_1_1_c_context_simulator_empty.html" title="Empty context, used during shutdown/initialization." alt="" coords="519,71,713,112"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_simulator_proxy.html" title="DBus proxy for Simulator Context." alt="" coords="521,136,711,177"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="128,71,275,112"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,78,80,105"/>
+</map>

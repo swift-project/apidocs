@@ -1,0 +1,7 @@
+<map id="BlackCore::Afv::Clients::CAfvClient" name="BlackCore::Afv::Clients::CAfvClient">
+<area shape="rect" id="node1" title="AFV client." alt="" coords="143,229,314,271"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="25,80,208,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="79,5,154,32"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="253,155,431,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="BlackCore::ISimulatorListener" name="BlackCore::ISimulatorListener">
+<area shape="rect" id="node1" title="Interface to a simulator listener." alt="" coords="128,143,343,170"/>
+<area shape="rect" id="node3" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_listener.html" title="Listener for swift." alt="" coords="401,5,617,47"/>
+<area shape="rect" id="node4" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear_listener.html" title="Listener waits for fgswiftbus service to show up." alt="" coords="399,71,619,112"/>
+<area shape="rect" id="node5" href="$class_black_sim_plugin_1_1_fs9_1_1_c_simulator_fs9_listener.html" title="Listener for FS9 Listener starts the FS9 multiplayer host and tries to make the running instance of s..." alt="" coords="420,136,597,177"/>
+<area shape="rect" id="node6" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_common_listener.html" title="Listener for FSX." alt="" coords="391,201,627,243"/>
+<area shape="rect" id="node10" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane_listener.html" title="Listener waits for xswiftbus service to show up." alt="" coords="409,267,608,308"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,143,80,170"/>
+<area shape="rect" id="node7" href="$class_black_sim_plugin_1_1_fsx_1_1_c_simulator_fsx_listener.html" title="Listener for FSX." alt="" coords="680,136,857,177"/>
+<area shape="rect" id="node8" href="$class_black_sim_plugin_1_1_msfs_1_1_c_simulator_ms_fs_listener.html" title="Listener for MSFS." alt="" coords="675,201,863,243"/>
+<area shape="rect" id="node9" href="$class_black_sim_plugin_1_1_p3_d_1_1_c_simulator_p3_d_listener.html" title="Listener for P3D." alt="" coords="679,267,859,308"/>
+</map>

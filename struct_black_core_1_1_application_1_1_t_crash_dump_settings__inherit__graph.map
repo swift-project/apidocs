@@ -1,0 +1,4 @@
+<map id="BlackCore::Application::TCrashDumpSettings" name="BlackCore::Application::TCrashDumpSettings">
+<area shape="rect" id="node1" title="Uploading of crash dumps is enabled or disabled." alt="" coords="10,109,179,151"/>
+<area shape="rect" id="node2" href="$struct_black_misc_1_1_t_setting_trait.html" title=" " alt="" coords="5,5,184,61"/>
+</map>

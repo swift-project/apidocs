@@ -1,0 +1,8 @@
+<map id="BlackMisc::Simulation::CRemoteAircraftProviderDummy" name="BlackMisc::Simulation::CRemoteAircraftProviderDummy">
+<area shape="rect" id="node1" title="Dummy implementation for testing purpose." alt="" coords="76,259,319,300"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider.html" title="Implementaion of the interface, which can also be used for testing." alt="" coords="102,169,293,211"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,87,80,114"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_i_remote_aircraft_provider.html" title="Direct thread safe in memory access to remote aircraft." alt="" coords="104,80,291,121"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="120,5,275,32"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="315,87,493,114"/>
+</map>

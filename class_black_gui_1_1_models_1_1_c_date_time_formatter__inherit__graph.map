@@ -1,0 +1,4 @@
+<map id="BlackGui::Models::CDateTimeFormatter" name="BlackGui::Models::CDateTimeFormatter">
+<area shape="rect" id="node1" title="Formatter when column contains QDateTime, QDate or QTime." alt="" coords="5,95,221,136"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="13,5,213,47"/>
+</map>

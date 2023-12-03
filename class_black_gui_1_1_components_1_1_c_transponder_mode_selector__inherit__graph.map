@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CTransponderModeSelector" name="BlackGui::Components::CTransponderModeSelector">
+<area shape="rect" id="node1" title="Selector for the transponder mode." alt="" coords="5,229,212,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qcombobox.html" title=" " alt="" coords="57,155,160,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="69,80,148,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="14,5,89,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="113,5,222,32"/>
+</map>

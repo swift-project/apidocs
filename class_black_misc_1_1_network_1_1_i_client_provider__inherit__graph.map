@@ -1,0 +1,8 @@
+<map id="BlackMisc::Network::IClientProvider" name="BlackMisc::Network::IClientProvider">
+<area shape="rect" id="node1" title="Direct in memory access to client (network client) data." alt="" coords="90,80,241,121"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_c_context_network.html" title="Network context implementation." alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_network_1_1_c_client_provider.html" title="Direct in memory access to client (network client) data." alt="" coords="177,169,327,211"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="88,5,243,32"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="36,266,247,293"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_network_1_1_c_client_provider_dummy.html" title="Client provider dummy for testing." alt="" coords="271,259,454,300"/>
+</map>

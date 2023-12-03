@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::RevBClientParts" name="BlackCore::Fsd::RevBClientParts">
+<area shape="rect" id="node1" title="This packet is used to translate client’s parts from RevB IVAO &#45;MD. &#45;MDMDN0104:262396:262396:262396." alt="" coords="15,80,213,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

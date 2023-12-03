@@ -1,0 +1,4 @@
+<map id="BlackMisc::CJsonException" name="BlackMisc::CJsonException">
+<area shape="rect" id="node1" title="Thrown when a convertFromJson method encounters an unrecoverable error in JSON data." alt="" coords="5,80,201,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="34,5,173,32"/>
+</map>

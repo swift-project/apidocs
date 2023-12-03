@@ -1,0 +1,5 @@
+<map id="BlackMisc::Test::ITestServiceInterface" name="BlackMisc::Test::ITestServiceInterface">
+<area shape="rect" id="node1" title="Proxy class for BlackMisc::Test::CTestService. This part is the caller." alt="" coords="5,155,213,196"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtdbus.tags$qdbusabstractinterface.html" title=" " alt="" coords="20,80,199,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="72,5,147,32"/>
+</map>

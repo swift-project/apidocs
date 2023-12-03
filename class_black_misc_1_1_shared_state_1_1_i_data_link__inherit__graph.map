@@ -1,0 +1,5 @@
+<map id="BlackMisc::SharedState::IDataLink" name="BlackMisc::SharedState::IDataLink">
+<area shape="rect" id="node1" title="Interface that provides a transport mechanism for sharing state." alt="" coords="104,5,279,47"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_data_link_d_bus.html" title="A transport mechanism using signals and slots distributed by DBus." alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_data_link_local.html" title="A transport mechanism using signals and slots in the local process." alt="" coords="204,95,379,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BlackSimPlugin::P3D::CSimulatorP3DConfig" name="BlackSimPlugin::P3D::CSimulatorP3DConfig">
+<area shape="rect" id="node1" title="Window for setting up the P3D plugin." alt="" coords="31,80,201,121"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_i_plugin_config.html" title="The interface for the plugin config." alt="" coords="104,5,277,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackGui::Models::CAngleDegreeFormatter" name="BlackGui::Models::CAngleDegreeFormatter">
+<area shape="rect" id="node1" title="Angle in degrees." alt="" coords="773,27,963,69"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_physiqal_quantiy_formatter.html" title=" " alt="" coords="489,5,725,91"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_value_object_formatter.html" title="Default formatter when column contains CValueObject." alt="" coords="253,27,441,69"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="5,27,205,69"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="BlackSimPlugin::XPlane::CSimulatorXPlaneConfigWindow" name="BlackSimPlugin::XPlane::CSimulatorXPlaneConfigWindow">
+<area shape="rect" id="node1" title="A window that shows all the X&#45;Plane plugin options." alt="" coords="5,483,245,524"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_plugin_config_window.html" title="Base class for plugin config window." alt="" coords="10,408,241,435"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="19,319,232,360"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="19,229,232,271"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="89,155,162,181"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="86,80,165,107"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="31,5,105,32"/>
+<area shape="rect" id="node8" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="129,5,239,32"/>
+</map>

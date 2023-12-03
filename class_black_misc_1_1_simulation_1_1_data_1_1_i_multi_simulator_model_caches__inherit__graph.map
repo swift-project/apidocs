@@ -1,0 +1,13 @@
+<map id="BlackMisc::Simulation::Data::IMultiSimulatorModelCaches" name="BlackMisc::Simulation::Data::IMultiSimulatorModelCaches">
+<area shape="rect" id="node1" title="Cache for multiple simulators specified by CSimulatorInfo." alt="" coords="284,217,493,273"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title=" " alt="" coords="541,5,879,91"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title=" " alt="" coords="543,115,877,186"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title="One central instance of the caches base class." alt="" coords="576,210,844,281"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_model_caches.html" title="Bundle of caches for all simulators." alt="" coords="627,305,793,346"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_model_set_caches.html" title="Bundle of caches for model sets of all simulators." alt="" coords="617,370,803,411"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="83,173,158,200"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="14,225,227,266"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="5,290,236,331"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_set_caches_provider.html" title="One central instance of the model set caches." alt="" coords="927,20,1148,76"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider.html" title="One central instance of the model caches." alt="" coords="927,123,1148,179"/>
+</map>

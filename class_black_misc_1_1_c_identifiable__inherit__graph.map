@@ -1,0 +1,43 @@
+<map id="BlackMisc::CIdentifiable" name="BlackMisc::CIdentifiable">
+<area shape="rect" id="node1" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="5,754,184,781"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_afv_1_1_clients_1_1_c_afv_client.html" title="AFV client." alt="" coords="275,5,445,47"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_c_application.html" title="Our runtime." alt="" coords="271,71,449,98"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_application.html" title="Application context." alt="" coords="279,123,441,164"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_context_1_1_c_context_audio_base.html" title="Audio context interface." alt="" coords="281,188,439,229"/>
+<area shape="rect" id="node10" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft.html" title="Own aircraft context implementation. Central instance of data for." alt="" coords="277,253,443,295"/>
+<area shape="rect" id="node11" href="$class_black_core_1_1_context_1_1_c_context_simulator.html" title="Network simulator concrete implementation." alt="" coords="283,319,437,360"/>
+<area shape="rect" id="node12" href="$class_black_core_1_1_data_1_1_c_global_setup.html" title="Global settings for readers, debug flags, etc." alt="" coords="267,384,453,425"/>
+<area shape="rect" id="node13" href="$class_black_core_1_1_i_simulator.html" title="Interface to a simulator." alt="" coords="279,450,441,477"/>
+<area shape="rect" id="node24" href="$class_black_gui_1_1_components_1_1_c_atc_station_component.html" title="ATC stations component." alt="" coords="269,501,451,543"/>
+<area shape="rect" id="node25" href="$class_black_gui_1_1_components_1_1_c_cockpit_com_component.html" title="The main cockpit area." alt="" coords="263,567,457,608"/>
+<area shape="rect" id="node26" href="$class_black_gui_1_1_components_1_1_c_cockpit_transponder_mode_leds_component.html" title="LEDs representing transponder mode state." alt="" coords="243,633,477,689"/>
+<area shape="rect" id="node27" href="$class_black_gui_1_1_components_1_1_c_command_input.html" title="Specialized line edit for command inputs." alt="" coords="275,713,445,755"/>
+<area shape="rect" id="node28" href="$class_black_gui_1_1_components_1_1_c_interpolation_log_display.html" title="Display live data of interpolation." alt="" coords="263,779,457,820"/>
+<area shape="rect" id="node29" href="$class_black_gui_1_1_components_1_1_c_mapping_component.html" title="Mappings, models etc." alt="" coords="275,844,445,885"/>
+<area shape="rect" id="node30" href="$class_black_gui_1_1_components_1_1_c_transponder_mode_component.html" title="Small component to display XPDR mode." alt="" coords="245,909,475,951"/>
+<area shape="rect" id="node31" href="$class_black_gui_1_1_components_1_1_c_weather_component.html" title="Weather component." alt="" coords="275,975,445,1016"/>
+<area shape="rect" id="node32" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider.html" title="Implementaion of the interface, which can also be used for testing." alt="" coords="265,1040,455,1081"/>
+<area shape="rect" id="node35" href="$class_black_misc_test_1_1_c_test_identifiable.html" title="Test identifiable object." alt="" coords="245,1106,475,1133"/>
+<area shape="rect" id="node36" href="$class_black_sample_1_1_client.html" title="Simple command line interface client." alt="" coords="283,1157,437,1183"/>
+<area shape="rect" id="node37" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_monitor_dialog.html" title="Monitor widget for the pseudo driver." alt="" coords="232,1208,488,1249"/>
+<area shape="rect" id="node38" href="$class_c_swift_core.html" title="swift core control GUI" alt="" coords="313,1274,407,1301"/>
+<area shape="rect" id="node39" href="$class_c_swift_data.html" title="swift data entry control (aka mapping tool)" alt="" coords="313,1325,407,1351"/>
+<area shape="rect" id="node40" href="$class_c_swift_launcher.html" title="swift launcher tool" alt="" coords="299,1375,421,1402"/>
+<area shape="rect" id="node41" href="$class_swift_gui_std.html" title="swift GUI" alt="" coords="311,1426,409,1453"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_gui_application.html" title="GUI application, a specialized version of BlackCore::CApplication for GUI applications." alt="" coords="561,71,753,98"/>
+<area shape="rect" id="node5" href="$class_c_swift_gui_std_application.html" title="Specialized GUI application for swift pilot client." alt="" coords="840,71,1019,98"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_context_1_1_c_context_audio.html" title="Audio context implementation." alt="" coords="584,156,731,197"/>
+<area shape="rect" id="node9" href="$class_black_core_1_1_context_1_1_c_context_audio_proxy.html" title="Audio context proxy." alt="" coords="575,221,739,263"/>
+<area shape="rect" id="node14" href="$class_black_sim_plugin_1_1_common_1_1_c_simulator_plugin_common.html" title="Common base class for simulator plugins." alt="" coords="557,443,758,484"/>
+<area shape="rect" id="node15" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated.html" title="swift simulator implementation" alt="" coords="833,344,1026,385"/>
+<area shape="rect" id="node16" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear.html" title="Flightgear ISimulator implementation." alt="" coords="831,409,1028,451"/>
+<area shape="rect" id="node17" href="$class_black_sim_plugin_1_1_fs_common_1_1_c_simulator_fs_common.html" title="Common base class for MS flight simulators." alt="" coords="827,475,1032,516"/>
+<area shape="rect" id="node23" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane.html" title="X&#45;Plane ISimulator implementation." alt="" coords="841,540,1017,581"/>
+<area shape="rect" id="node18" href="$class_black_sim_plugin_1_1_fs9_1_1_c_simulator_fs9.html" title="FS9 Simulator Implementation." alt="" coords="1109,443,1264,484"/>
+<area shape="rect" id="node19" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_common.html" title="FSX Simulator Implementation." alt="" coords="1080,508,1293,549"/>
+<area shape="rect" id="node20" href="$class_black_sim_plugin_1_1_fsx_1_1_c_simulator_fsx.html" title="FSX simulator implementation." alt="" coords="1345,443,1500,484"/>
+<area shape="rect" id="node21" href="$class_black_sim_plugin_1_1_msfs_1_1_c_simulator_ms_fs.html" title="FSX simulator implementation." alt="" coords="1341,508,1504,549"/>
+<area shape="rect" id="node22" href="$class_black_sim_plugin_1_1_p3_d_1_1_c_simulator_p3_d.html" title="P3D Simulator Implementation." alt="" coords="1344,573,1501,615"/>
+<area shape="rect" id="node33" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="552,1018,763,1045"/>
+<area shape="rect" id="node34" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_provider_dummy.html" title="Dummy implementation for testing purpose." alt="" coords="536,1069,779,1111"/>
+</map>

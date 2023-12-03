@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::AddAtc" name="BlackCore::Fsd::AddAtc">
+<area shape="rect" id="node1" title="Add ATC message." alt="" coords="27,80,201,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

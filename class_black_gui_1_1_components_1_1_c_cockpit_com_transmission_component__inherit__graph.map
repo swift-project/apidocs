@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CCockpitComTransmissionComponent" name="BlackGui::Components::CCockpitComTransmissionComponent">
+<area shape="rect" id="node1" title="Transmission for COM units." alt="" coords="5,229,284,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="108,155,181,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="105,80,184,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="50,5,125,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="149,5,258,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="BlackGui::Views::CAircraftCategoryTreeView" name="BlackGui::Views::CAircraftCategoryTreeView">
+<area shape="rect" id="node1" title="ATC stations view." alt="" coords="5,453,196,495"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qtreeview.html" title=" " alt="" coords="55,379,146,405"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qabstractitemview.html" title=" " alt="" coords="27,304,175,331"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qabstractscrollarea.html" title=" " alt="" coords="25,229,177,256"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="64,155,137,181"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="61,80,140,107"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="6,5,81,32"/>
+<area shape="rect" id="node8" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="105,5,214,32"/>
+</map>

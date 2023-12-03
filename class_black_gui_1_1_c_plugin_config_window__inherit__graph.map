@@ -1,0 +1,13 @@
+<map id="BlackGui::CPluginConfigWindow" name="BlackGui::CPluginConfigWindow">
+<area shape="rect" id="node1" title="Base class for plugin config window." alt="" coords="933,111,1164,138"/>
+<area shape="rect" id="node8" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_config_widget.html" title="Configuration window for CSimulatorEmulatedConfig." alt="" coords="1217,5,1468,47"/>
+<area shape="rect" id="node9" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear_config_window.html" title="A window that shows all the Flightgear plugin options." alt="" coords="1212,71,1473,112"/>
+<area shape="rect" id="node10" href="$class_black_sim_plugin_1_1_fsx_common_1_1_c_simulator_fsx_config_window.html" title="A window that lets user set up the FSX plugin." alt="" coords="1233,136,1452,177"/>
+<area shape="rect" id="node11" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane_config_window.html" title="A window that shows all the X&#45;Plane plugin options." alt="" coords="1223,201,1463,243"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="672,104,885,145"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="411,104,624,145"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,111,363,138"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,111,241,138"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,86,97,113"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,137,115,163"/>
+</map>

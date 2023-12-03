@@ -1,0 +1,6 @@
+<map id="BlackMisc::CLogHistory" name="BlackMisc::CLogHistory">
+<area shape="rect" id="node1" title="Records all log messages to a list that persists for the lifetime of the application." alt="" coords="33,273,208,300"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_list_journal.html" title=" " alt="" coords="5,169,236,225"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_generic_list_journal.html" title="Non&#45;template base class for CListJournal." alt="" coords="33,80,208,121"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="83,5,158,32"/>
+</map>

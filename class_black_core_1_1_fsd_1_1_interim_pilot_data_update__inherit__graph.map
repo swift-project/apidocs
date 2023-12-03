@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::InterimPilotDataUpdate" name="BlackCore::Fsd::InterimPilotDataUpdate">
+<area shape="rect" id="node1" title="Interim pilot data update sent to specific receivers faster than the standard broadcast update." alt="" coords="13,80,215,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

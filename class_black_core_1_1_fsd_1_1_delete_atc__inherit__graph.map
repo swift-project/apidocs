@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::DeleteAtc" name="BlackCore::Fsd::DeleteAtc">
+<area shape="rect" id="node1" title="FSD Message Delete ATC." alt="" coords="19,80,209,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BlackGui::Models::CStringFormatter" name="BlackGui::Models::CStringFormatter">
+<area shape="rect" id="node1" title="String formatter, if known the variant already contains the appropriate string." alt="" coords="10,95,201,136"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="5,5,205,47"/>
+</map>

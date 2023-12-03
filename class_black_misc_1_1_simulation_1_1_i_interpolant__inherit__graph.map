@@ -1,0 +1,5 @@
+<map id="BlackMisc::Simulation::IInterpolant" name="BlackMisc::Simulation::IInterpolant">
+<area shape="rect" id="node1" title="Interpolant interface." alt="" coords="5,53,172,94"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_linear_1_1_c_interpolant.html" title="Linear function that performs the actual interpolation." alt="" coords="220,5,387,61"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_spline_1_1_c_interpolant.html" title="Cubic function that performs the actual interpolation." alt="" coords="220,85,387,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="BlackMisc::SharedState::CActiveMutator" name="BlackMisc::SharedState::CActiveMutator">
+<area shape="rect" id="node1" title="Extends CPassiveMutator with the ability to respond to requests." alt="" coords="31,184,206,225"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_passive_mutator.html" title="Endpoint which can emit events to subscribers." alt="" coords="31,95,206,136"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,13,80,39"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qenablesharedfromthis.html" title=" " alt="" coords="104,5,285,47"/>
+</map>

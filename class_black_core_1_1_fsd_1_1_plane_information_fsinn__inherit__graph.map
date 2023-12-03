@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::PlaneInformationFsinn" name="BlackCore::Fsd::PlaneInformationFsinn">
+<area shape="rect" id="node1" title="This packet is sent in reply to a FSinn request (FSIPIR)" alt="" coords="5,80,244,121"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="16,5,233,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BlackCore::CPluginManagerWeatherData" name="BlackCore::CPluginManagerWeatherData">
+<area shape="rect" id="node1" title="Manages plugins of type WeatherData." alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_i_plugin_manager.html" title="Base class for all contexts that provide plugin support." alt="" coords="8,80,205,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="69,5,144,32"/>
+</map>

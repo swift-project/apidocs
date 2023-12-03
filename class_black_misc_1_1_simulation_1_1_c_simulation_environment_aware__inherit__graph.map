@@ -1,0 +1,11 @@
+<map id="BlackMisc::Simulation::CSimulationEnvironmentAware" name="BlackMisc::Simulation::CSimulationEnvironmentAware">
+<area shape="rect" id="node1" title="Class which can be directly used to access an." alt="" coords="316,158,549,199"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="597,5,812,61"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="597,85,812,141"/>
+<area shape="rect" id="node7" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="599,165,810,192"/>
+<area shape="rect" id="node8" href="$class_black_core_1_1_fsd_1_1_c_f_s_d_client.html" title="FSD client Todo: Send (interim) data updates automatically Todo Check &#39;:&#39; in FSD messages...." alt="" coords="605,216,804,243"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title="Interpolator, calculation inbetween positions." alt="" coords="607,267,803,309"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,158,268,199"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_spline.html" title="Cubic spline interpolator." alt="" coords="860,13,1027,54"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_interpolator_linear.html" title="Linear interpolator, calculation inbetween positions." alt="" coords="860,93,1027,134"/>
+</map>

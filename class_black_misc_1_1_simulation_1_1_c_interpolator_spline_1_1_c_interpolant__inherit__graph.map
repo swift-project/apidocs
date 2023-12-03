@@ -1,0 +1,4 @@
+<map id="BlackMisc::Simulation::CInterpolatorSpline::CInterpolant" name="BlackMisc::Simulation::CInterpolatorSpline::CInterpolant">
+<area shape="rect" id="node1" title="Cubic function that performs the actual interpolation." alt="" coords="5,95,172,151"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_i_interpolant.html" title="Interpolant interface." alt="" coords="5,5,172,47"/>
+</map>

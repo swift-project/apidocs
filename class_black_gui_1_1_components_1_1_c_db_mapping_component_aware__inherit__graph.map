@@ -1,0 +1,10 @@
+<map id="BlackGui::Components::CDbMappingComponentAware" name="BlackGui::Components::CDbMappingComponentAware">
+<area shape="rect" id="node1" title="Allows subcomponents to gain access to model component." alt="" coords="5,201,235,243"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_auto_simulator_stashing_component.html" title="Allows to automatically update models if found in own model set, but already existing for a sibling s..." alt="" coords="283,5,564,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_auto_stashing_component.html" title="Stashing component." alt="" coords="314,71,533,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_db_model_component.html" title="Database models." alt="" coords="337,136,509,177"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_components_1_1_c_db_model_mapping_modify_dialog.html" title="Modify model fields as dialog." alt="" coords="304,201,543,243"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_components_1_1_c_db_own_model_set_component.html" title="Handling of the own model set." alt="" coords="312,267,535,308"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_db_own_model_set_form_dialog.html" title="Dialog to create new model set." alt="" coords="312,332,535,373"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_db_stash_component.html" title="Stashed objects." alt="" coords="338,397,509,439"/>
+</map>

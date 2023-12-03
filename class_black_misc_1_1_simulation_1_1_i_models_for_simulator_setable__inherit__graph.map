@@ -1,0 +1,22 @@
+<map id="BlackMisc::Simulation::IModelsForSimulatorSetable" name="BlackMisc::Simulation::IModelsForSimulatorSetable">
+<area shape="rect" id="node1" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="5,149,219,191"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_model_workbench_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="267,11,511,52"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_own_models_component.html" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="285,76,493,117"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_aware.html" title="Basically a QObject free (delegate based) version of CCentralMultiSimulatorModelCachesProvider." alt="" coords="278,142,499,198"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_set_caches_aware.html" title="Basically a QObject free (delegate based) version of CCentralMultiSimulatorModelSetCachesProvider." alt="" coords="278,222,499,278"/>
+<area shape="rect" id="node13" href="$class_black_misc_1_1_simulation_1_1_data_1_1_i_multi_simulator_model_caches.html" title="Cache for multiple simulators specified by CSimulatorInfo." alt="" coords="284,473,493,529"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_aircraft_model_loader.html" title="Load the aircraft for a simulator." alt="" coords="644,127,811,168"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_c_dummy_model_loader.html" title="Dummy loader for testing." alt="" coords="972,5,1147,47"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_flightgear_1_1_c_aircraft_model_loader_flightgear.html" title="Flightgear aircraft model loader." alt="" coords="959,71,1159,127"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_fs_common_1_1_c_aircraft_cfg_parser.html" title="Utility, parsing the aircraft.cfg files." alt="" coords="944,152,1175,193"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_x_plane_1_1_c_aircraft_model_loader_x_plane.html" title="XPlane aircraft model loader." alt="" coords="948,218,1171,274"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_components_1_1_c_db_own_model_set_component.html" title="Handling of the own model set." alt="" coords="616,192,839,233"/>
+<area shape="rect" id="node12" href="$class_c_swift_launcher.html" title="swift launcher tool" alt="" coords="666,258,789,285"/>
+<area shape="rect" id="node14" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title=" " alt="" coords="559,309,896,394"/>
+<area shape="rect" id="node16" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title=" " alt="" coords="560,419,895,489"/>
+<area shape="rect" id="node18" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider_base.html" title="One central instance of the caches base class." alt="" coords="593,513,861,584"/>
+<area shape="rect" id="node19" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_model_caches.html" title="Bundle of caches for all simulators." alt="" coords="644,608,811,649"/>
+<area shape="rect" id="node20" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_model_set_caches.html" title="Bundle of caches for model sets of all simulators." alt="" coords="634,673,821,715"/>
+<area shape="rect" id="node15" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_set_caches_provider.html" title="One central instance of the model set caches." alt="" coords="949,323,1170,379"/>
+<area shape="rect" id="node17" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_provider.html" title="One central instance of the model caches." alt="" coords="949,426,1170,482"/>
+</map>

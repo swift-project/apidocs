@@ -1,0 +1,4 @@
+<map id="BlackSimPlugin::XPlane::CXSwiftBusWeatherProxy" name="BlackSimPlugin::XPlane::CXSwiftBusWeatherProxy">
+<area shape="rect" id="node1" title="Proxy object connected to a real XSwiftBus::CWeather object via DBus." alt="" coords="5,80,200,121"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="65,5,140,32"/>
+</map>

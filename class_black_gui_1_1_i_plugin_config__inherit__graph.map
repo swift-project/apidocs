@@ -1,0 +1,8 @@
+<map id="BlackGui::IPluginConfig" name="BlackGui::IPluginConfig">
+<area shape="rect" id="node1" title="The interface for the plugin config." alt="" coords="5,143,179,170"/>
+<area shape="rect" id="node2" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_config.html" title="Window for setting up the FSX plugin." alt="" coords="229,5,434,47"/>
+<area shape="rect" id="node3" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear_config.html" title="Config plugin for the Flightgear plugin." alt="" coords="227,71,436,112"/>
+<area shape="rect" id="node4" href="$class_black_sim_plugin_1_1_fsx_1_1_c_simulator_fsx_config.html" title="Window for setting up the FSX plugin." alt="" coords="248,136,415,177"/>
+<area shape="rect" id="node5" href="$class_black_sim_plugin_1_1_p3_d_1_1_c_simulator_p3_d_config.html" title="Window for setting up the P3D plugin." alt="" coords="247,201,416,243"/>
+<area shape="rect" id="node6" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane_config.html" title="Config plugin for the X&#45;Plane plugin." alt="" coords="237,267,425,308"/>
+</map>

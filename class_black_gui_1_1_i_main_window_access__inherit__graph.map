@@ -1,0 +1,9 @@
+<map id="BlackGui::IMainWindowAccess" name="BlackGui::IMainWindowAccess">
+<area shape="rect" id="node1" title="Direct acccess to main window`s status bar, info bar and such." alt="" coords="276,5,497,32"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_gui_application.html" title="GUI application, a specialized version of BlackCore::CApplication for GUI applications." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node4" href="$class_c_swift_core.html" title="swift core control GUI" alt="" coords="221,80,315,107"/>
+<area shape="rect" id="node5" href="$class_c_swift_data.html" title="swift data entry control (aka mapping tool)" alt="" coords="339,80,434,107"/>
+<area shape="rect" id="node6" href="$class_c_swift_launcher.html" title="swift launcher tool" alt="" coords="459,80,581,107"/>
+<area shape="rect" id="node7" href="$class_swift_gui_std.html" title="swift GUI" alt="" coords="606,80,703,107"/>
+<area shape="rect" id="node3" href="$class_c_swift_gui_std_application.html" title="Specialized GUI application for swift pilot client." alt="" coords="12,155,191,181"/>
+</map>

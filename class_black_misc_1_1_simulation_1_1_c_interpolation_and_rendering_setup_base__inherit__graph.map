@@ -1,0 +1,5 @@
+<map id="BlackMisc::Simulation::CInterpolationAndRenderingSetupBase" name="BlackMisc::Simulation::CInterpolationAndRenderingSetupBase">
+<area shape="rect" id="node1" title="Value object for interpolator and rendering base class." alt="" coords="5,45,219,101"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_c_interpolation_and_rendering_setup_global.html" title="Value object for interpolator and rendering." alt="" coords="267,5,480,61"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_interpolation_and_rendering_setup_per_callsign.html" title="Value object for interpolator and rendering per callsign." alt="" coords="267,85,480,141"/>
+</map>

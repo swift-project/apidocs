@@ -1,0 +1,12 @@
+<map id="BlackMisc::PhysicalQuantities::CLength" name="BlackMisc::PhysicalQuantities::CLength">
+<area shape="rect" id="node1" title="Physical unit length (length)" alt="" coords="588,201,805,243"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_aviation_1_1_c_altitude.html" title="Altitude as used in aviation, can be AGL or MSL altitude." alt="" coords="853,201,1003,243"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_physical_quantities_1_1_c_physical_quantity.html" title=" " alt="" coords="292,194,540,250"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title="CRTP class template which will generate marshalling operators for a derived class with its own marsha..." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title="CRTP class template to generate non&#45;member QDataStream streaming operators." alt="" coords="15,71,234,112"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_json_operators.html" title="CRTP class template which will generate marshalling operators for a derived class with its own marsha..." alt="" coords="9,136,240,177"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_index.html" title="CRTP class template from which a derived class can inherit property indexing functions." alt="" coords="37,201,213,243"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title="CRTP class template from which a derived class can inherit common methods dealing with the metatype o..." alt="" coords="23,267,226,308"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_mixin_1_1_string.html" title="CRTP class template from which a derived class can inherit string streaming operations." alt="" coords="35,332,214,373"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_mixin_1_1_icon.html" title="CRTP class template from which a derived class can inherit icon&#45;related functions." alt="" coords="37,397,212,439"/>
+</map>

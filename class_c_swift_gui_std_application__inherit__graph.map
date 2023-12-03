@@ -1,0 +1,8 @@
+<map id="CSwiftGuiStdApplication" name="CSwiftGuiStdApplication">
+<area shape="rect" id="node1" title="Specialized GUI application for swift pilot client." alt="" coords="140,229,319,256"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_gui_application.html" title="GUI application, a specialized version of BlackCore::CApplication for GUI applications." alt="" coords="133,155,325,181"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_c_application.html" title="Our runtime." alt="" coords="28,80,207,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="104,5,283,32"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_i_main_window_access.html" title="Direct acccess to main window`s status bar, info bar and such." alt="" coords="231,80,452,107"/>
+</map>

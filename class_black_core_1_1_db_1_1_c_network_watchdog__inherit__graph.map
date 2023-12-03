@@ -1,0 +1,6 @@
+<map id="BlackCore::Db::CNetworkWatchdog" name="BlackCore::Db::CNetworkWatchdog">
+<area shape="rect" id="node1" title="Monitoring the swift DB, internet access, shared URLs." alt="" coords="5,229,256,256"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="19,155,242,181"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="39,80,222,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="93,5,168,32"/>
+</map>

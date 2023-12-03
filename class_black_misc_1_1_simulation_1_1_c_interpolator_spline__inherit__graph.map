@@ -1,0 +1,10 @@
+<map id="BlackMisc::Simulation::CInterpolatorSpline" name="BlackMisc::Simulation::CInterpolatorSpline">
+<area shape="rect" id="node1" title="Cubic spline interpolator." alt="" coords="860,71,1027,112"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_c_interpolator.html" title=" " alt="" coords="597,63,812,119"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_simulation_environment_aware.html" title="Class which can be directly used to access an." alt="" coords="316,5,549,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,5,268,47"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_c_interpolation_setup_aware.html" title="Class which can be directly used to access an." alt="" coords="333,71,533,112"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="21,71,252,112"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_c_remote_aircraft_aware.html" title="Class which can be directly used to access an." alt="" coords="343,136,522,177"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="33,136,241,177"/>
+</map>

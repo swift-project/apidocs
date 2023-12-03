@@ -1,0 +1,8 @@
+<map id="BlackCore::Context::IContextOwnAircraft" name="BlackCore::Context::IContextOwnAircraft">
+<area shape="rect" id="node1" title="Own context proxy." alt="" coords="323,71,484,112"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft.html" title="Own aircraft context implementation. Central instance of data for." alt="" coords="553,5,719,47"/>
+<area shape="rect" id="node5" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft_empty.html" title="Empty context, used during shutdown/initialization." alt="" coords="532,71,740,112"/>
+<area shape="rect" id="node6" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft_proxy.html" title="Own aircraft context proxy." alt="" coords="535,136,737,177"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_context_1_1_i_context.html" title="Base for all context classes." alt="" coords="128,71,275,112"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,78,80,105"/>
+</map>

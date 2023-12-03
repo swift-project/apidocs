@@ -1,0 +1,13 @@
+<map id="BlackGui::Components::CDbModelWorkbenchComponent" name="BlackGui::Components::CDbModelWorkbenchComponent">
+<area shape="rect" id="node1" title="Handling of own models on disk (the models installed for the simulator)" alt="" coords="951,154,1195,195"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="681,23,894,65"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="411,23,624,65"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="289,31,363,57"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_i_models_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="704,89,871,130"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_simulation_1_1_i_models_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="704,154,871,195"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="681,219,894,261"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="672,285,903,326"/>
+</map>

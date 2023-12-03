@@ -1,0 +1,5 @@
+<map id="BlackSimPlugin::XPlane::CSimulatorXPlaneListener" name="BlackSimPlugin::XPlane::CSimulatorXPlaneListener">
+<area shape="rect" id="node1" title="Listener waits for xswiftbus service to show up." alt="" coords="13,155,212,196"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_i_simulator_listener.html" title="Interface to a simulator listener." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="75,5,150,32"/>
+</map>

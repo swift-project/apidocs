@@ -1,0 +1,33 @@
+<map id="BlackMisc::ITimestampObjectList&lt; OBJ, CONTAINER &gt;" name="BlackMisc::ITimestampObjectList&lt; OBJ, CONTAINER &gt;">
+<area shape="rect" id="node1" title="List of objects with timestamp. Such objects should implement." alt="" coords="5,586,221,627"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="310,5,509,61"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="274,86,545,127"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="301,152,518,208"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="314,232,505,288"/>
+<area shape="rect" id="node10" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="271,313,548,354"/>
+<area shape="rect" id="node12" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="301,379,517,435"/>
+<area shape="rect" id="node14" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="298,459,521,515"/>
+<area shape="rect" id="node16" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="308,539,511,595"/>
+<area shape="rect" id="node18" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="314,619,505,675"/>
+<area shape="rect" id="node20" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="294,699,525,755"/>
+<area shape="rect" id="node22" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title=" " alt="" coords="299,779,520,835"/>
+<area shape="rect" id="node24" href="$class_black_misc_1_1_i_timestamp_with_offset_object_list.html" title=" " alt="" coords="280,859,539,915"/>
+<area shape="rect" id="node26" href="$class_black_misc_1_1_i_timestamp_with_offset_object_list.html" title=" " alt="" coords="269,939,549,995"/>
+<area shape="rect" id="node28" href="$class_black_misc_1_1_i_timestamp_with_offset_object_list.html" title=" " alt="" coords="293,1019,526,1075"/>
+<area shape="rect" id="node30" href="$class_black_misc_1_1_db_1_1_i_datastore_object_list.html" title="List of objects read from database. Such objects should implement." alt="" coords="303,1099,516,1155"/>
+<area shape="rect" id="node31" href="$class_black_misc_1_1_i_timestamp_with_offset_object_list.html" title="List of objects with timestamp and offset. Such objects should implement." alt="" coords="307,1179,511,1235"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_distributor_list.html" title="Value object encapsulating a list of distributors." alt="" coords="629,13,796,54"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_aviation_1_1_c_livery_list.html" title="Value object for a list of airports." alt="" coords="638,86,787,127"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_aviation_1_1_c_airline_icao_code_list.html" title="Value object encapsulating a list of ICAO codes." alt="" coords="631,159,795,201"/>
+<area shape="rect" id="node9" href="$class_black_misc_1_1_db_1_1_c_distribution_list.html" title="Multiple distributions for different channels:" alt="" coords="597,247,828,273"/>
+<area shape="rect" id="node11" href="$class_black_misc_1_1_db_1_1_c_db_info_list.html" title="Value object encapsulating a list of info objects." alt="" coords="614,320,811,347"/>
+<area shape="rect" id="node13" href="$class_black_misc_1_1_aviation_1_1_c_airport_list.html" title="Value object for a list of airports." alt="" coords="638,386,787,427"/>
+<area shape="rect" id="node15" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_icao_code_list.html" title="Value object encapsulating a list of ICAO codes." alt="" coords="628,466,797,507"/>
+<area shape="rect" id="node17" href="$class_black_misc_1_1_simulation_1_1_c_aircraft_model_list.html" title="Value object encapsulating a list of aircraft models." alt="" coords="629,546,796,587"/>
+<area shape="rect" id="node19" href="$class_black_misc_1_1_db_1_1_c_artifact_list.html" title="Multiple artifacts." alt="" coords="611,633,814,660"/>
+<area shape="rect" id="node21" href="$class_black_misc_1_1_c_country_list.html" title="Value object encapsulating a list of countries." alt="" coords="623,713,802,740"/>
+<area shape="rect" id="node23" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_category_list.html" title="Value object encapsulating a list of ICAO codes." alt="" coords="629,786,797,827"/>
+<area shape="rect" id="node25" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_situation_list.html" title="List of aircraft situations." alt="" coords="629,866,796,907"/>
+<area shape="rect" id="node27" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_situation_change_list.html" title="Value object encapsulating a list of aircraft parts." alt="" coords="605,946,821,987"/>
+<area shape="rect" id="node29" href="$class_black_misc_1_1_aviation_1_1_c_aircraft_parts_list.html" title="Value object encapsulating a list of aircraft parts." alt="" coords="638,1026,787,1067"/>
+</map>

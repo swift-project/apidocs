@@ -1,0 +1,6 @@
+<map id="BlackMisc::Simulation::IOwnAircraftProvider" name="BlackMisc::Simulation::IOwnAircraftProvider">
+<area shape="rect" id="node1" title="Direct threadsafe in memory access to own aircraft." alt="" coords="208,39,375,80"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_context_1_1_c_context_own_aircraft.html" title="Own aircraft context implementation. Central instance of data for." alt="" coords="450,5,617,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_own_aircraft_provider_dummy.html" title="For testing." alt="" coords="423,71,644,112"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider.html" title="Base class for providers." alt="" coords="5,46,160,73"/>
+</map>

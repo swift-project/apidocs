@@ -1,0 +1,10 @@
+<map id="BlackGui::Models::CAircraftCategoryListModel" name="BlackGui::Models::CAircraftCategoryListModel">
+<area shape="rect" id="node1" title="Airport list model." alt="" coords="1356,23,1555,65"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_list_model_db_objects.html" title=" " alt="" coords="1065,16,1308,72"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_list_model_base.html" title="List model." alt="" coords="803,23,1017,65"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_models_1_1_c_list_model_base_non_template.html" title="Non templated base class, allows Q_OBJECT and signals to be used." alt="" coords="540,23,755,65"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qstandarditemmodel.html" title=" " alt="" coords="332,5,492,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qabstractitemmodel.html" title=" " alt="" coords="128,5,284,32"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_c_drop_base.html" title="Utilities for dropping swift value objects." alt="" coords="332,56,492,83"/>
+</map>

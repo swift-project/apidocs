@@ -1,0 +1,6 @@
+<map id="BlackCore::IPluginManager" name="BlackCore::IPluginManager">
+<area shape="rect" id="node1" title="Base class for all contexts that provide plugin support." alt="" coords="121,80,319,107"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_c_plugin_manager_simulator.html" title="Manages plugins for the simulator context." alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node4" href="$class_black_core_1_1_c_plugin_manager_weather_data.html" title="Manages plugins of type WeatherData." alt="" coords="232,155,435,196"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="183,5,257,32"/>
+</map>

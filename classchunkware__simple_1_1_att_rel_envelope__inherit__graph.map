@@ -1,0 +1,7 @@
+<map id="chunkware_simple::AttRelEnvelope" name="chunkware_simple::AttRelEnvelope">
+<area shape="rect" id="node1" title="attack/release envelope" alt="" coords="155,5,347,47"/>
+<area shape="rect" id="node2" href="$classchunkware__simple_1_1_simple_comp.html" title="simple compressor" alt="" coords="5,95,240,121"/>
+<area shape="rect" id="node4" href="$classchunkware__simple_1_1_simple_gate.html" title="simple gate" alt="" coords="265,95,493,121"/>
+<area shape="rect" id="node3" href="$classchunkware__simple_1_1_simple_comp_rms.html" title="Simple compressor with RMS detection." alt="" coords="24,169,221,211"/>
+<area shape="rect" id="node5" href="$classchunkware__simple_1_1_simple_gate_rms.html" title="Simple gate with RMS detection." alt="" coords="280,169,477,211"/>
+</map>

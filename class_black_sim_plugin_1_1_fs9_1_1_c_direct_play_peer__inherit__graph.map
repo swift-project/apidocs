@@ -1,0 +1,6 @@
+<map id="BlackSimPlugin::Fs9::CDirectPlayPeer" name="BlackSimPlugin::Fs9::CDirectPlayPeer">
+<area shape="rect" id="node1" title="DirectPlay peer implementation More information can be found in the DirectX9 SDK documentation http:/..." alt="" coords="95,80,249,121"/>
+<area shape="rect" id="node3" href="$class_black_sim_plugin_1_1_fs9_1_1_c_fs9_client.html" title="Class faking a FS9 multiplayer client connection." alt="" coords="5,169,160,211"/>
+<area shape="rect" id="node4" href="$class_black_sim_plugin_1_1_fs9_1_1_c_fs9_host.html" title="Class encapsulating a FS9 host." alt="" coords="184,169,339,211"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="135,5,209,32"/>
+</map>

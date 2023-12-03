@@ -1,0 +1,7 @@
+<map id="BlackGui::Components::CDbDebugDatabaseSetup" name="BlackGui::Components::CDbDebugDatabaseSetup">
+<area shape="rect" id="node1" title="Debug settings for DB (only to be used as developer)" alt="" coords="5,229,204,271"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="68,155,141,181"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="65,80,144,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="10,5,85,32"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="109,5,218,32"/>
+</map>

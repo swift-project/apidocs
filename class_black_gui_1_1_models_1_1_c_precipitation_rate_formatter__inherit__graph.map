@@ -1,0 +1,4 @@
+<map id="BlackGui::Models::CPrecipitationRateFormatter" name="BlackGui::Models::CPrecipitationRateFormatter">
+<area shape="rect" id="node1" title="Relative Humidity." alt="" coords="5,95,240,136"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="23,5,223,47"/>
+</map>

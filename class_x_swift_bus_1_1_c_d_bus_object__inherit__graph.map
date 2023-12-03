@@ -1,0 +1,7 @@
+<map id="XSwiftBus::CDBusObject" name="XSwiftBus::CDBusObject">
+<area shape="rect" id="node1" title="DBus base object." alt="" coords="163,80,343,107"/>
+<area shape="rect" id="node3" href="$class_x_swift_bus_1_1_c_service.html" title="XSwiftBus service object which is accessible through DBus." alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node4" href="$class_x_swift_bus_1_1_c_traffic.html" title="XSwiftBus service object for traffic aircraft which is accessible through DBus." alt="" coords="182,155,325,181"/>
+<area shape="rect" id="node5" href="$class_x_swift_bus_1_1_c_weather.html" title="XSwiftBus weather object which is accessible through DBus." alt="" coords="349,155,507,181"/>
+<area shape="rect" id="node2" href="$class_x_swift_bus_1_1_c_settings_aware.html" title="Something having access to the settings." alt="" coords="154,5,353,32"/>
+</map>

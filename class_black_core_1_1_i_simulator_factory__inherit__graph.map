@@ -1,0 +1,10 @@
+<map id="BlackCore::ISimulatorFactory" name="BlackCore::ISimulatorFactory">
+<area shape="rect" id="node1" title="Factory pattern class to create instances of ISimulator." alt="" coords="5,209,216,235"/>
+<area shape="rect" id="node2" href="$class_black_sim_plugin_1_1_emulated_1_1_c_simulator_emulated_factory.html" title="Factory implementation to create CSimulatorEmulated instances." alt="" coords="266,5,477,47"/>
+<area shape="rect" id="node3" href="$class_black_sim_plugin_1_1_flightgear_1_1_c_simulator_flightgear_factory.html" title="Factory for creating CSimulatorFlightgear instance." alt="" coords="264,71,479,112"/>
+<area shape="rect" id="node4" href="$class_black_sim_plugin_1_1_fs9_1_1_c_simulator_fs9_factory.html" title="Factory implementation to create CSimulatorFs9 instances." alt="" coords="285,136,457,177"/>
+<area shape="rect" id="node5" href="$class_black_sim_plugin_1_1_fsx_1_1_c_simulator_fsx_factory.html" title="Factory implementation to create CSimulatorFsx instances." alt="" coords="285,201,457,243"/>
+<area shape="rect" id="node6" href="$class_black_sim_plugin_1_1_msfs_1_1_c_simulator_ms_fs_factory.html" title="Factory implementation to create CSimulatorFsx instances." alt="" coords="280,267,463,308"/>
+<area shape="rect" id="node7" href="$class_black_sim_plugin_1_1_p3_d_1_1_c_simulator_p3_d_factory.html" title="Factory implementation to create CSimulatorP3D instances." alt="" coords="284,332,459,373"/>
+<area shape="rect" id="node8" href="$class_black_sim_plugin_1_1_x_plane_1_1_c_simulator_x_plane_factory.html" title="Factory for creating CSimulatorXPlane instance." alt="" coords="274,397,469,439"/>
+</map>

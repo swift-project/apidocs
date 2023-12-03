@@ -1,0 +1,4 @@
+<map id="BlackCore::IWeatherDataFactory" name="BlackCore::IWeatherDataFactory">
+<area shape="rect" id="node1" title="Factory pattern class to create instances of IWeatherData." alt="" coords="5,5,237,32"/>
+<area shape="rect" id="node2" href="$class_black_wx_plugin_1_1_gfs_1_1_c_weather_data_gfs_factory.html" title="Factory for creating CWeatherDataGfs instance." alt="" coords="25,80,218,121"/>
+</map>

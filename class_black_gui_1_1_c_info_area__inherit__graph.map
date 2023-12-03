@@ -1,0 +1,13 @@
+<map id="BlackGui::CInfoArea" name="BlackGui::CInfoArea">
+<area shape="rect" id="node1" title="Info area, hosting dockable widgets." alt="" coords="565,143,717,170"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_cockpit_info_area_component.html" title="The cockpit itself is part of the main info area, but itself also an info area. hence windows can be ..." alt="" coords="772,5,991,47"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_core_info_area_component.html" title="Main info area." alt="" coords="782,71,981,112"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_components_1_1_c_data_info_area_component.html" title="Info area containing the DB data (models, liveries ...)" alt="" coords="781,136,981,177"/>
+<area shape="rect" id="node10" href="$class_black_gui_1_1_components_1_1_c_data_main_info_area_component.html" title="Main info area for data entry tool." alt="" coords="765,201,997,243"/>
+<area shape="rect" id="node11" href="$class_black_gui_1_1_components_1_1_c_main_info_area_component.html" title="Main info area of pilot client." alt="" coords="781,267,982,308"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qmainwindow.html" title=" " alt="" coords="345,114,461,141"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,114,241,141"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,89,97,115"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,139,115,166"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_c_enable_for_frameless_window.html" title="Main window which can be frameless." alt="" coords="289,165,517,207"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BlackSample::Client" name="BlackSample::Client">
+<area shape="rect" id="node1" title="Simple command line interface client." alt="" coords="111,184,265,211"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,102,80,129"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_own_aircraft_aware.html" title="Delegating class which can be directly used to access an." alt="" coords="105,95,271,136"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="91,5,285,47"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="296,102,475,129"/>
+</map>

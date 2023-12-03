@@ -1,0 +1,5 @@
+<map id="BlackSimPlugin::Fsx::CSimulatorFsxFactory" name="BlackSimPlugin::Fsx::CSimulatorFsxFactory">
+<area shape="rect" id="node1" title="Factory implementation to create CSimulatorFsx instances." alt="" coords="39,80,211,121"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_i_simulator_factory.html" title="Factory pattern class to create instances of ISimulator." alt="" coords="104,5,315,32"/>
+</map>

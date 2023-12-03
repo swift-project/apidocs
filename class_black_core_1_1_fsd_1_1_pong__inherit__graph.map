@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::Pong" name="BlackCore::Fsd::Pong">
+<area shape="rect" id="node1" title="Sent or received as reply to a ping." alt="" coords="35,80,193,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

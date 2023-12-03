@@ -1,0 +1,5 @@
+<map id="BlackMisc::SharedState::CScalarObserver&lt; T &gt;" name="BlackMisc::SharedState::CScalarObserver&lt; T &gt;">
+<area shape="rect" id="node1" title="Base class for an object that shares state with a corresponding CScalarMutator subclass object." alt="" coords="11,169,187,211"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_shared_state_1_1_c_generic_scalar_observer.html" title="Non&#45;template base class for CScalarObserver." alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="62,5,137,32"/>
+</map>

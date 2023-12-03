@@ -1,0 +1,15 @@
+<map id="BlackMisc::Simulation::Data::TModelCache" name="BlackMisc::Simulation::Data::TModelCache">
+<area shape="rect" id="node1" title="Trait for model cache." alt="" coords="224,332,391,373"/>
+<area shape="rect" id="node3" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_cache_f_g.html" title="FG." alt="" coords="456,5,631,47"/>
+<area shape="rect" id="node4" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_cache_fs9.html" title="FS9." alt="" coords="453,71,633,112"/>
+<area shape="rect" id="node5" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_cache_fsx.html" title="FSX." alt="" coords="453,136,633,177"/>
+<area shape="rect" id="node6" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_cache_p3_d.html" title="P3D." alt="" coords="452,201,635,243"/>
+<area shape="rect" id="node7" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_cache_x_p.html" title="XPlane." alt="" coords="456,267,631,308"/>
+<area shape="rect" id="node8" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_set_cache_f_g.html" title="FG." alt="" coords="445,332,641,373"/>
+<area shape="rect" id="node9" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_set_cache_fs9.html" title="FS9." alt="" coords="443,397,644,439"/>
+<area shape="rect" id="node10" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_set_cache_fsx.html" title="FSX." alt="" coords="443,463,644,504"/>
+<area shape="rect" id="node11" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_set_cache_p3_d.html" title="P3D." alt="" coords="441,528,645,569"/>
+<area shape="rect" id="node12" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_model_set_cache_x_p.html" title="XPlane." alt="" coords="446,593,641,635"/>
+<area shape="rect" id="node13" href="$struct_black_misc_1_1_simulation_1_1_data_1_1_t_v_pilot_aircraft_models.html" title="Trait for vPilot derived models." alt="" coords="439,659,648,700"/>
+<area shape="rect" id="node2" href="$struct_black_misc_1_1_t_data_trait.html" title=" " alt="" coords="5,332,176,373"/>
+</map>

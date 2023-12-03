@@ -1,0 +1,6 @@
+<map id="BlackMisc::SharedState::DBus::IHub" name="BlackMisc::SharedState::DBus::IHub">
+<area shape="rect" id="node1" title="Abstract interface for the hub in a star topology." alt="" coords="104,80,279,121"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_d_bus_1_1_c_hub.html" title="Server side implementation of IHub." alt="" coords="5,169,180,211"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_shared_state_1_1_d_bus_1_1_c_hub_proxy.html" title="Client side implementation of IHub." alt="" coords="204,169,379,211"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="154,5,229,32"/>
+</map>

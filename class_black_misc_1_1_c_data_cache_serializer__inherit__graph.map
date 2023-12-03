@@ -1,0 +1,6 @@
+<map id="BlackMisc::CDataCacheSerializer" name="BlackMisc::CDataCacheSerializer">
+<area shape="rect" id="node1" title="Worker which performs (de)serialization on behalf of CDataCache, in a separate thread so that the mai..." alt="" coords="5,229,243,256"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_continuous_worker.html" title="Base class for a long&#45;lived worker object which lives in its own thread." alt="" coords="13,155,235,181"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_c_worker_base.html" title="Base class for CWorker and CContinuousWorker." alt="" coords="33,80,215,107"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="87,5,161,32"/>
+</map>

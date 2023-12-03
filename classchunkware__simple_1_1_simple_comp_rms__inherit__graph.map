@@ -1,0 +1,5 @@
+<map id="chunkware_simple::SimpleCompRms" name="chunkware_simple::SimpleCompRms">
+<area shape="rect" id="node1" title="Simple compressor with RMS detection." alt="" coords="24,169,221,211"/>
+<area shape="rect" id="node2" href="$classchunkware__simple_1_1_simple_comp.html" title="simple compressor" alt="" coords="5,95,240,121"/>
+<area shape="rect" id="node3" href="$classchunkware__simple_1_1_att_rel_envelope.html" title="attack/release envelope" alt="" coords="27,5,219,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BlackGui::CEnableForViewBasedIndicator" name="BlackGui::CEnableForViewBasedIndicator">
+<area shape="rect" id="node1" title="Hand over indication task to an embedded view." alt="" coords="5,235,199,276"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_components_1_1_c_db_aircraft_category_component.html" title="DB aircraft categories." alt="" coords="247,5,485,47"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_components_1_1_c_db_aircraft_icao_component.html" title="DB aircraft ICAO data." alt="" coords="263,71,469,112"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_components_1_1_c_db_airline_icao_component.html" title="Airline ICAO code." alt="" coords="265,136,467,177"/>
+<area shape="rect" id="node5" href="$class_black_gui_1_1_components_1_1_c_db_country_component.html" title="The countries." alt="" coords="275,201,457,243"/>
+<area shape="rect" id="node6" href="$class_black_gui_1_1_components_1_1_c_db_distributor_component.html" title="Distributors." alt="" coords="265,267,467,308"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_components_1_1_c_db_livery_component.html" title="Liveries from DB." alt="" coords="280,332,452,373"/>
+<area shape="rect" id="node8" href="$class_black_gui_1_1_components_1_1_c_db_mapping_component.html" title="Mapping component." alt="" coords="272,397,460,439"/>
+<area shape="rect" id="node9" href="$class_black_gui_1_1_components_1_1_c_db_model_component.html" title="Database models." alt="" coords="280,463,452,504"/>
+</map>

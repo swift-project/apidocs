@@ -1,0 +1,5 @@
+<map id="BlackSimPlugin::Flightgear::CSimulatorFlightgearListener" name="BlackSimPlugin::Flightgear::CSimulatorFlightgearListener">
+<area shape="rect" id="node1" title="Listener waits for fgswiftbus service to show up." alt="" coords="5,155,225,196"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_i_simulator_listener.html" title="Interface to a simulator listener." alt="" coords="8,80,223,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="78,5,153,32"/>
+</map>

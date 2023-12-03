@@ -1,0 +1,10 @@
+<map id="BlackMisc::CStrongStringView" name="BlackMisc::CStrongStringView">
+<area shape="rect" id="node1" title="Special&#45;purpose string class used by CMessageBase." alt="" coords="303,209,520,235"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title=" " alt="" coords="29,5,231,47"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_equals_by_compare.html" title=" " alt="" coords="5,71,255,112"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_mixin_1_1_less_than_by_compare.html" title=" " alt="" coords="5,136,255,177"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title=" " alt="" coords="11,201,249,243"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title=" " alt="" coords="11,267,249,308"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_json_operators.html" title=" " alt="" coords="15,332,245,373"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_mixin_1_1_string.html" title=" " alt="" coords="41,397,219,439"/>
+</map>

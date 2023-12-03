@@ -1,0 +1,4 @@
+<map id="BlackMisc::Simulation::Settings::CXPlaneSimulatorSettings" name="BlackMisc::Simulation::Settings::CXPlaneSimulatorSettings">
+<area shape="rect" id="node1" title="XPlane specific settings." alt="" coords="20,109,228,165"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_settings_1_1_c_specialized_simulator_settings.html" title="Allows to have specific utility functions for each simulator." alt="" coords="5,5,243,61"/>
+</map>

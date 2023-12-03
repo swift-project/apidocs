@@ -1,0 +1,4 @@
+<map id="CAfvClientBridge" name="CAfvClientBridge">
+<area shape="rect" id="node1" title="Bridge, running in main thread &#45;&gt; voice client in own thread." alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="35,5,109,32"/>
+</map>

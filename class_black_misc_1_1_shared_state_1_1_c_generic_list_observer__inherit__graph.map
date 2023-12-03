@@ -1,0 +1,9 @@
+<map id="BlackMisc::SharedState::CGenericListObserver" name="BlackMisc::SharedState::CGenericListObserver">
+<area shape="rect" id="node1" title="Non&#45;template base class for CListObserver." alt="" coords="128,93,303,134"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_shared_state_1_1_c_list_observer.html" title=" " alt="" coords="351,5,595,61"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_shared_state_1_1_c_list_observer.html" title=" " alt="" coords="385,85,560,141"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_shared_state_1_1_c_list_observer.html" title="Base class for an object that shares state with a corresponding CListMutator subclass object." alt="" coords="384,166,561,207"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,100,80,127"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_c_log_history_replica.html" title="Allows distributed access to the log messages of a central CLogHistory." alt="" coords="643,20,865,47"/>
+<area shape="rect" id="node6" href="$class_black_misc_test_1_1_c_test_list_observer.html" title="List observer subclass." alt="" coords="664,93,844,134"/>
+</map>

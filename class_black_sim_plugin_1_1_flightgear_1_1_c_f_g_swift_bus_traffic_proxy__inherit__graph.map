@@ -1,0 +1,4 @@
+<map id="BlackSimPlugin::Flightgear::CFGSwiftBusTrafficProxy" name="BlackSimPlugin::Flightgear::CFGSwiftBusTrafficProxy">
+<area shape="rect" id="node1" title="Proxy object connected to a real FGSwiftBus::CTraffic object via DBus." alt="" coords="5,80,203,121"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="67,5,141,32"/>
+</map>

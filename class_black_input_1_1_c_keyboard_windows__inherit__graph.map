@@ -1,0 +1,5 @@
+<map id="BlackInput::CKeyboardWindows" name="BlackInput::CKeyboardWindows">
+<area shape="rect" id="node1" title="Windows implemenation of IKeyboard using hook procedure." alt="" coords="5,155,233,181"/>
+<area shape="rect" id="node2" href="$class_black_input_1_1_i_keyboard.html" title="Abstract interface for native keyboard handling." alt="" coords="37,80,201,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="82,5,157,32"/>
+</map>

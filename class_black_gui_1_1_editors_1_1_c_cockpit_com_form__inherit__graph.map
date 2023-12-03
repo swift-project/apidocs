@@ -1,0 +1,10 @@
+<map id="BlackGui::Editors::CCockpitComForm" name="BlackGui::Editors::CCockpitComForm">
+<area shape="rect" id="node1" title="COM elements." alt="" coords="41,497,183,539"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_editors_1_1_c_form.html" title="Form base class." alt="" coords="41,408,183,449"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_c_overlay_messages_frame.html" title="Using this class provides a QFrame with the overlay functionality already integrated." alt="" coords="5,319,219,360"/>
+<area shape="rect" id="node4" href="$class_black_gui_1_1_c_overlay_messages_base.html" title=" " alt="" coords="5,229,219,271"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qframe.html" title=" " alt="" coords="75,155,149,181"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="73,80,151,107"/>
+<area shape="rect" id="node7" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="17,5,92,32"/>
+<area shape="rect" id="node8" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="116,5,225,32"/>
+</map>

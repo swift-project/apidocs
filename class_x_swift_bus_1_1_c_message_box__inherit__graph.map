@@ -1,0 +1,4 @@
+<map id="XSwiftBus::CMessageBox" name="XSwiftBus::CMessageBox">
+<area shape="rect" id="node1" title="Class for drawing a gray box with text messages." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node2" href="$class_x_swift_bus_1_1_c_drawable.html" title="Class&#45;based interface to X&#45;Plane&#39;s drawing callback API." alt="" coords="15,5,182,32"/>
+</map>

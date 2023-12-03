@@ -1,0 +1,5 @@
+<map id="BlackGui::Models::CLatLonFormatter" name="BlackGui::Models::CLatLonFormatter">
+<area shape="rect" id="node1" title="Latitude or Longitude formatter." alt="" coords="8,184,203,225"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_models_1_1_c_value_object_formatter.html" title="Default formatter when column contains CValueObject." alt="" coords="11,95,199,136"/>
+<area shape="rect" id="node3" href="$class_black_gui_1_1_models_1_1_c_default_formatter.html" title="Column formatter default implementation, also serving as interface." alt="" coords="5,5,205,47"/>
+</map>

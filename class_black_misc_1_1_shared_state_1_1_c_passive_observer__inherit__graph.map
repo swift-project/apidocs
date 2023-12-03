@@ -1,0 +1,6 @@
+<map id="BlackMisc::SharedState::CPassiveObserver" name="BlackMisc::SharedState::CPassiveObserver">
+<area shape="rect" id="node1" title="Endpoint which can subscribe to events emitted by CPassiveMutator." alt="" coords="31,95,206,136"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_shared_state_1_1_c_active_observer.html" title="Extends CPassiveObserver with the ability to send requests and receive replies." alt="" coords="31,184,206,225"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,13,80,39"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qenablesharedfromthis.html" title=" " alt="" coords="104,5,285,47"/>
+</map>

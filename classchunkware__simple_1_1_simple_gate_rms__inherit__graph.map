@@ -1,0 +1,5 @@
+<map id="chunkware_simple::SimpleGateRms" name="chunkware_simple::SimpleGateRms">
+<area shape="rect" id="node1" title="Simple gate with RMS detection." alt="" coords="21,169,218,211"/>
+<area shape="rect" id="node2" href="$classchunkware__simple_1_1_simple_gate.html" title="simple gate" alt="" coords="5,95,233,121"/>
+<area shape="rect" id="node3" href="$classchunkware__simple_1_1_att_rel_envelope.html" title="attack/release envelope" alt="" coords="23,5,215,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="BlackMisc::PhysicalQuantities::CMassUnit" name="BlackMisc::PhysicalQuantities::CMassUnit">
+<area shape="rect" id="node1" title="Specialized class for mass units (kg, lbs)." alt="" coords="519,168,736,209"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_physical_quantities_1_1_c_measurement_unit.html" title="Base class for all units, such as meter, hertz." alt="" coords="243,37,460,79"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_mixin_1_1_string.html" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_mixin_1_1_icon.html" title=" " alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_mixin_1_1_meta_type.html" title=" " alt="" coords="250,103,453,144"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_mixin_1_1_d_bus_operators.html" title=" " alt="" coords="232,168,471,209"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_mixin_1_1_data_stream_operators.html" title=" " alt="" coords="242,233,461,275"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_mixin_1_1_index.html" title=" " alt="" coords="263,299,439,340"/>
+</map>

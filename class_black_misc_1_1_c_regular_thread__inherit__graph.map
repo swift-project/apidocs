@@ -1,0 +1,5 @@
+<map id="BlackMisc::CRegularThread" name="BlackMisc::CRegularThread">
+<area shape="rect" id="node1" title="Just a subclass of QThread whose destructor waits for the thread to finish." alt="" coords="5,155,205,181"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qthread.html" title=" " alt="" coords="67,80,144,107"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="68,5,143,32"/>
+</map>

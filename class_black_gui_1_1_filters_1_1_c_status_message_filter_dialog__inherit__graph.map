@@ -1,0 +1,9 @@
+<map id="BlackGui::Filters::CStatusMessageFilterDialog" name="BlackGui::Filters::CStatusMessageFilterDialog">
+<area shape="rect" id="node1" title="Form for a status message filter." alt="" coords="651,61,856,102"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_filters_1_1_c_filter_dialog.html" title="Base for filter dialog." alt="" coords="439,23,575,65"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qdialog.html" title=" " alt="" coords="289,31,364,57"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="163,31,241,57"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,97,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_models_1_1_i_model_filter_provider.html" title=" " alt="" coords="412,89,603,145"/>
+</map>

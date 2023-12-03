@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::ServerError" name="BlackCore::Fsd::ServerError">
+<area shape="rect" id="node1" title="FSD Message Server Error." alt="" coords="14,80,214,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

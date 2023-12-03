@@ -1,0 +1,4 @@
+<map id="BlackCore::Fsd::ClientQuery" name="BlackCore::Fsd::ClientQuery">
+<area shape="rect" id="node1" title="This packet is used to query a client’s data." alt="" coords="12,80,216,107"/>
+<area shape="rect" id="node2" href="$class_black_core_1_1_fsd_1_1_message_base.html" title="FSD message base class." alt="" coords="5,5,223,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CSwiftCore" name="CSwiftCore">
+<area shape="rect" id="node1" title="swift core control GUI" alt="" coords="319,304,413,331"/>
+<area shape="rect" id="node2" href="$class_black_gui_1_1_c_system_tray_window.html" title="QDialog which can minimize to system tray." alt="" coords="5,229,231,256"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qmainwindow.html" title=" " alt="" coords="60,155,176,181"/>
+<area shape="rect" id="node4" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtwidgets.tags$qwidget.html" title=" " alt="" coords="79,80,157,107"/>
+<area shape="rect" id="node5" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="23,5,98,32"/>
+<area shape="rect" id="node6" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtgui.tags$qpaintdevice.html" title=" " alt="" coords="122,5,231,32"/>
+<area shape="rect" id="node7" href="$class_black_gui_1_1_i_main_window_access.html" title="Direct acccess to main window`s status bar, info bar and such." alt="" coords="255,229,477,256"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_c_identifiable.html" title="Base class with a member CIdentifier to be inherited by a class which has an identity in the environm..." alt="" coords="501,229,679,256"/>
+</map>

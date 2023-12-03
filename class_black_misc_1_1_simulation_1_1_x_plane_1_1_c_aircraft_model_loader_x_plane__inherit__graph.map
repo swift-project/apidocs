@@ -1,0 +1,10 @@
+<map id="BlackMisc::Simulation::XPlane::CAircraftModelLoaderXPlane" name="BlackMisc::Simulation::XPlane::CAircraftModelLoaderXPlane">
+<area shape="rect" id="node1" title="XPlane aircraft model loader." alt="" coords="768,93,991,149"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_simulation_1_1_i_aircraft_model_loader.html" title="Load the aircraft for a simulator." alt="" coords="553,101,720,142"/>
+<area shape="rect" id="node3" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="357,5,432,32"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_data_1_1_c_central_multi_simulator_model_caches_aware.html" title="Basically a QObject free (delegate based) version of CCentralMultiSimulatorModelCachesProvider." alt="" coords="284,56,505,112"/>
+<area shape="rect" id="node5" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="14,31,227,73"/>
+<area shape="rect" id="node6" href="$class_black_misc_1_1_simulation_1_1_i_models_for_simulator_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="5,97,236,138"/>
+<area shape="rect" id="node7" href="$class_black_misc_1_1_simulation_1_1_i_models_setable.html" title="Interface to &quot;something&quot; backing models, which can be set." alt="" coords="311,137,478,178"/>
+<area shape="rect" id="node8" href="$class_black_misc_1_1_simulation_1_1_i_models_updatable.html" title="Interface to &quot;something&quot; backing models, which can be modified (updated)" alt="" coords="311,202,478,243"/>
+</map>

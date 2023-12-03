@@ -1,0 +1,5 @@
+<map id="BlackWxPlugin::Gfs::CWeatherDataGfsFactory" name="BlackWxPlugin::Gfs::CWeatherDataGfsFactory">
+<area shape="rect" id="node1" title="Factory for creating CWeatherDataGfs instance." alt="" coords="34,80,227,121"/>
+<area shape="rect" id="node2" href="/home/runner/work/pilotclient/pilotclient/docs/tags/qtcore.tags$qobject.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_i_weather_data_factory.html" title="Factory pattern class to create instances of IWeatherData." alt="" coords="104,5,336,32"/>
+</map>

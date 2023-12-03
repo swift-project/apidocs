@@ -1,0 +1,6 @@
+<map id="BlackMisc::IOrderable" name="BlackMisc::IOrderable">
+<area shape="rect" id="node1" title="Entity with order attribute (can be manually ordered in views)" alt="" coords="5,64,169,91"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_c_status_message.html" title="Streamable status message, e.g." alt="" coords="217,5,421,32"/>
+<area shape="rect" id="node3" href="$class_black_misc_1_1_simulation_1_1_c_aircraft_model.html" title="Aircraft model (used by another pilot, my models on disk)" alt="" coords="236,57,403,98"/>
+<area shape="rect" id="node4" href="$class_black_misc_1_1_simulation_1_1_c_distributor.html" title="Value object encapsulating information of software distributor." alt="" coords="236,122,403,163"/>
+</map>

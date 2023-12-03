@@ -1,0 +1,5 @@
+<map id="BlackMisc::Simulation::CAircraftModelSetAware" name="BlackMisc::Simulation::CAircraftModelSetAware">
+<area shape="rect" id="node1" title="Delegating class which can be directly used to access an." alt="" coords="21,95,209,136"/>
+<area shape="rect" id="node3" href="$class_black_core_1_1_c_airspace_monitor.html" title="Keeps track of other entities in the airspace: aircraft, ATC stations, etc. Central instance of data ..." alt="" coords="9,184,220,211"/>
+<area shape="rect" id="node2" href="$class_black_misc_1_1_i_provider_aware.html" title=" " alt="" coords="5,5,224,47"/>
+</map>
